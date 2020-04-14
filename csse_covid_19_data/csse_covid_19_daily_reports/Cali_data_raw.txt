@@ -1,0 +1,1170 @@
+Province/State	Country/Region	Last Update	Confirmed	Deaths	Recovered	Latitude	Longitude
+California	US	2020-03-10T19:13:28	144	2	2	36.1162	-119.6816
+California	US	2020-03-11T23:53:03	177	3	2	36.1162	-119.6816
+California	US	2020-03-12T23:44:33	221	4	6	36.1162	-119.6816
+California	US	2020-03-11T20:00:00	282	4	6	36.116203	-119.681564
+California	US	2020-03-14T22:13:32	340	5	6	36.1162	-119.6816
+California	US	2020-03-15T18:33:03	426	6	6	36.1162	-119.6816
+California	US	2020-03-16T23:53:03	557	7	6	36.1162	-119.6816
+California	US	2020-03-17T22:53:03	698	12	6	36.1162	-119.6816
+California	US	2020-03-18T19:14:34	751	13	0	36.1162	-119.6816
+California	US	2020-03-19T21:13:40	952	18	0	36.1162	-119.6816
+California	US	2020-03-20T23:43:03	1177	23	0	36.1162	-119.6816
+California	US	2020-03-21T22:43:04	1364	24	0	36.1162	-119.6816
+6037	Los Angeles	California	US	3/22/20 23:45	34.30828379	-118.2282411	407	5	0	0	Los Angeles, California, US
+6085	Santa Clara	California	US	3/22/20 23:45	37.23104908	-121.6970462	263	8	0	0	Santa Clara, California, US
+6073	San Diego	California	US	3/22/20 23:45	33.03484597	-116.7365326	155	0	0	0	San Diego, California, US
+6081	San Mateo	California	US	3/22/20 23:45	37.4228808	-122.3275546	117	1	0	0	San Mateo, California, US
+6075	San Francisco	California	US	3/22/20 23:45	37.75215114	-122.4385672	108	0	0	0	San Francisco, California, US
+6059	Orange	California	US	3/22/20 23:45	33.70147516	-117.7645998	95	0	0	0	Orange, California, US
+6001	Alameda	California	US	3/22/20 23:45	37.64629437	-121.8929271	71	0	0	0	Alameda, California, US
+6013	Contra Costa	California	US	3/22/20 23:45	37.91923498	-121.9289527	61	1	0	0	Contra Costa, California, US
+6067	Sacramento	California	US	3/22/20 23:45	38.45106826	-121.3425374	53	3	0	0	Sacramento, California, US
+6041	Marin	California	US	3/22/20 23:45	38.07122463	-122.7210631	38	0	0	0	Marin, California, US
+6077	San Joaquin	California	US	3/22/20 23:45	37.93433732	-121.2730061	31	2	0	0	San Joaquin, California, US
+6065	Riverside	California	US	3/22/20 23:45	33.74314981	-115.9933578	29	6	0	0	Riverside, California, US
+6079	San Luis Obispo	California	US	3/22/20 23:45	35.38822029	-120.4039028	27	0	0	0	San Luis Obispo, California, US
+6111	Ventura	California	US	3/22/20 23:45	34.44465746	-119.0910613	25	0	0	0	Ventura, California, US
+6097	Sonoma	California	US	3/22/20 23:45	38.52746429	-122.8862506	22	1	0	0	Sonoma, California, US
+6071	San Bernardino	California	US	3/22/20 23:45	34.84060306	-116.1774685	17	0	0	0	San Bernardino, California, US
+6087	Santa Cruz	California	US	3/22/20 23:45	37.05580291	-122.0066524	15	0	0	0	Santa Cruz, California, US
+6095	Solano	California	US	3/22/20 23:45	38.26827353	-121.9357113	13	0	0	0	Solano, California, US
+6083	Santa Barbara	California	US	3/22/20 23:45	34.65329488	-120.0188492	13	0	0	0	Santa Barbara, California, US
+6061	Placer	California	US	3/22/20 23:45	39.06167234	-120.7240569	12	1	0	0	Placer, California, US
+6107	Tulare	California	US	3/22/20 23:45	36.22026558	-118.8020203	12	0	0	0	Tulare, California, US
+6053	Monterey	California	US	3/22/20 23:45	36.21862405	-121.2413397	11	1	0	0	Monterey, California, US
+6113	Yolo	California	US	3/22/20 23:45	38.68278902	-121.9018288	6	0	0	0	Yolo, California, US
+6019	Fresno	California	US	3/22/20 23:45	36.75733899	-119.6466953	6	0	0	0	Fresno, California, US
+6025	Imperial	California	US	3/22/20 23:45	33.0393082	-115.3669042	6	0	0	0	Imperial, California, US
+6069	San Benito	California	US	3/22/20 23:45	36.60308176	-121.069975	5	1	0	0	San Benito, California, US
+6099	Stanislaus	California	US	3/22/20 23:45	37.55862499	-120.9970722	5	0	0	0	Stanislaus, California, US
+6029	Kern	California	US	3/22/20 23:45	35.34329425	-118.7277796	5	0	0	0	Kern, California, US
+6039	Madera	California	US	3/22/20 23:45	37.21513971	-119.7665589	3	0	0	0	Madera, California, US
+6023	Humboldt	California	US	3/22/20 23:45	40.69923009	-123.876044	2	0	0	0	Humboldt, California, US
+6009	Calaveras	California	US	3/22/20 23:45	38.20537103	-120.552913	2	0	0	0	Calaveras, California, US
+6093	Siskiyou	California	US	3/22/20 23:45	41.59198861	-122.5407434	2	0	0	0	Siskiyou, California, US
+6115	Yuba	California	US	3/22/20 23:45	39.26255932	-121.3535644	2	0	0	0	Yuba, California, US
+6089	Shasta	California	US	3/22/20 23:45	40.76391419	-122.0396884	1	0	0	0	Shasta, California, US
+6057	Nevada	California	US	3/22/20 23:45	39.30394768	-120.7627281	1	0	0	0	Nevada, California, US
+6045	Mendocino	California	US	3/22/20 23:45	39.4381191	-123.3911313	1	0	0	0	Mendocino, California, US
+6005	Amador	California	US	3/22/20 23:45	38.44583082	-120.65696	1	0	0	0	Amador, California, US
+6051	Mono	California	US	3/22/20 23:45	37.93899289	-118.8872409	1	0	0	0	Mono, California, US
+6007	Butte	California	US	3/22/20 23:45	39.66727762	-121.6005252	1	0	0	0	Butte, California, US
+6055	Napa	California	US	3/22/20 23:45	38.50735751	-122.332839	1	0	0	0	Napa, California, US
+6003	Alpine	California	US	3/22/20 23:45	38.59678594	-119.8223594	0	0	0	0	Alpine, California, US
+6011	Colusa	California	US	3/22/20 23:45	39.17881957	-122.2331726	0	0	0	0	Colusa, California, US
+6015	Del Norte	California	US	3/22/20 23:45	41.74228275	-123.8974063	0	0	0	0	Del Norte, California, US
+6017	El Dorado	California	US	3/22/20 23:45	38.77965956	-120.5233166	0	0	0	0	El Dorado, California, US
+6021	Glenn	California	US	3/22/20 23:45	39.59875897	-122.3938452	0	0	0	0	Glenn, California, US
+6027	Inyo	California	US	3/22/20 23:45	36.51112084	-117.4111978	0	0	0	0	Inyo, California, US
+6031	Kings	California	US	3/22/20 23:45	36.07409056	-119.8159973	0	0	0	0	Kings, California, US
+6033	Lake	California	US	3/22/20 23:45	39.10124298	-122.7536244	0	0	0	0	Lake, California, US
+6035	Lassen	California	US	3/22/20 23:45	40.67311306	-120.5935099	0	0	0	0	Lassen, California, US
+6043	Mariposa	California	US	3/22/20 23:45	37.57978556	-119.9073334	0	0	0	0	Mariposa, California, US
+6047	Merced	California	US	3/22/20 23:45	37.18922369	-120.7209035	0	0	0	0	Merced, California, US
+6049	Modoc	California	US	3/22/20 23:45	41.58965602	-120.7244817	0	0	0	0	Modoc, California, US
+6063	Plumas	California	US	3/22/20 23:45	40.00355989	-120.8395236	0	0	0	0	Plumas, California, US
+6091	Sierra	California	US	3/22/20 23:45	39.57713498	-120.5200701	0	0	0	0	Sierra, California, US
+6101	Sutter	California	US	3/22/20 23:45	39.03417539	-121.6945899	0	0	0	0	Sutter, California, US
+6103	Tehama	California	US	3/22/20 23:45	40.12570935	-122.2370171	0	0	0	0	Tehama, California, US
+6105	Trinity	California	US	3/22/20 23:45	40.6491767	-123.114713	0	0	0	0	Trinity, California, US
+6109	Tuolumne	California	US	3/22/20 23:45	38.02644018	-119.9525093	0	0	0	0	Tuolumne, California, US
+06001	Alameda	California	US	2020-03-23 23:19:34	37.64629437	-121.8929271	118	1	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-03-23 23:19:34	38.59678594	-119.82235940000001	0	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-03-23 23:19:34	38.44583082	-120.65696000000001	1	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-03-23 23:19:34	39.66727762	-121.6005252	2	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-03-23 23:19:34	38.20537103	-120.55291299999999	2	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-03-23 23:19:34	39.17881957	-122.2331726	0	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-03-23 23:19:34	37.91923498	-121.9289527	71	1	0	0	Contra Costa, California, US
+06015	Del Norte	California	US	2020-03-23 23:19:34	41.74228275	-123.89740630000001	0	0	0	0	Del Norte, California, US
+06017	El Dorado	California	US	2020-03-23 23:19:34	38.77965956	-120.5233166	2	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-03-23 23:19:34	36.75733899	-119.6466953	6	0	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-03-23 23:19:34	39.59875897	-122.3938452	0	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-03-23 23:19:34	40.69923009	-123.876044	2	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-03-23 23:19:34	33.0393082	-115.36690420000001	6	0	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-03-23 23:19:34	36.51112084	-117.41119779999998	0	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-03-23 23:19:34	35.34329425	-118.72777959999999	12	0	0	0	Kern, California, US
+06031	Kings	California	US	2020-03-23 23:19:34	36.07409056	-119.8159973	0	0	0	0	Kings, California, US
+06033	Lake	California	US	2020-03-23 23:19:34	39.10124298	-122.75362439999999	0	0	0	0	Lake, California, US
+06035	Lassen	California	US	2020-03-23 23:19:34	40.67311306	-120.59350990000002	0	0	0	0	Lassen, California, US
+06037	Los Angeles	California	US	2020-03-23 23:19:34	34.30828379	-118.22824109999999	536	7	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-03-23 23:19:34	37.21513971	-119.76655890000002	3	0	0	0	Madera, California, US
+06041	Marin	California	US	2020-03-23 23:19:34	38.07122463	-122.72106310000001	38	0	0	0	Marin, California, US
+06043	Mariposa	California	US	2020-03-23 23:19:34	37.57978556	-119.9073334	0	0	0	0	Mariposa, California, US
+06045	Mendocino	California	US	2020-03-23 23:19:34	39.4381191	-123.39113130000001	1	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-03-23 23:19:34	37.18922369	-120.72090349999999	1	0	0	0	Merced, California, US
+06049	Modoc	California	US	2020-03-23 23:19:34	41.58965602	-120.7244817	0	0	0	0	Modoc, California, US
+06051	Mono	California	US	2020-03-23 23:19:34	37.93899289	-118.8872409	1	0	0	0	Mono, California, US
+06053	Monterey	California	US	2020-03-23 23:19:34	36.21862405	-121.24133970000001	14	1	0	0	Monterey, California, US
+06055	Napa	California	US	2020-03-23 23:19:34	38.50735751	-122.33283899999999	2	0	0	0	Napa, California, US
+06057	Nevada	California	US	2020-03-23 23:19:34	39.30394768	-120.76272809999999	2	0	0	0	Nevada, California, US
+06059	Orange	California	US	2020-03-23 23:19:34	33.70147516	-117.76459979999998	125	0	0	0	Orange, California, US
+06061	Placer	California	US	2020-03-23 23:19:34	39.06167234	-120.72405690000001	12	1	0	0	Placer, California, US
+06063	Plumas	California	US	2020-03-23 23:19:34	40.00355989	-120.8395236	0	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-03-23 23:19:34	33.74314981	-115.9933578	46	6	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-03-23 23:19:34	38.45106826	-121.34253740000001	88	4	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-03-23 23:19:34	36.60308176	-121.069975	6	1	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-03-23 23:19:34	34.84060306	-116.1774685	17	0	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-03-23 23:19:34	33.03484597	-116.73653259999999	201	1	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-03-23 23:19:34	37.75215114	-122.43856720000001	131	0	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-03-23 23:19:34	37.93433732	-121.2730061	41	2	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-03-23 23:19:34	35.38822029	-120.4039028	27	0	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-03-23 23:19:34	37.422880799999994	-122.32755459999998	142	1	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-03-23 23:19:34	34.65329488	-120.0188492	18	0	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-03-23 23:19:34	37.23104908	-121.6970462	302	10	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-03-23 23:19:34	37.05580291	-122.0066524	22	0	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-03-23 23:19:34	40.76391419	-122.0396884	2	0	0	0	Shasta, California, US
+06091	Sierra	California	US	2020-03-23 23:19:34	39.57713498	-120.52007009999998	0	0	0	0	Sierra, California, US
+06093	Siskiyou	California	US	2020-03-23 23:19:34	41.59198861	-122.54074340000001	2	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-03-23 23:19:34	38.26827353	-121.9357113	14	0	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-03-23 23:19:34	38.52746429	-122.88625060000001	29	1	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-03-23 23:19:34	37.55862499	-120.9970722	8	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-03-23 23:19:34	39.03417539	-121.6945899	0	0	0	0	Sutter, California, US
+06103	Tehama	California	US	2020-03-23 23:19:34	40.12570935	-122.23701709999999	0	0	0	0	Tehama, California, US
+06105	Trinity	California	US	2020-03-23 23:19:34	40.64917670000001	-123.114713	0	0	0	0	Trinity, California, US
+06107	Tulare	California	US	2020-03-23 23:19:34	36.22026558	-118.8020203	16	0	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-03-23 23:19:34	38.02644018	-119.95250929999999	0	0	0	0	Tuolumne, California, US
+06111	Ventura	California	US	2020-03-23 23:19:34	34.44465746	-119.09106129999999	30	1	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-03-23 23:19:34	38.68278902	-121.90182879999999	6	1	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-03-23 23:19:34	39.26255932	-121.35356440000001	3	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-03-24 23:37:31	37.64629437	-121.8929271	135	2	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-03-24 23:37:31	38.59678594	-119.82235940000001	0	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-03-24 23:37:31	38.44583082	-120.65696000000001	2	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-03-24 23:37:31	39.66727762	-121.6005252	2	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-03-24 23:37:31	38.20537103	-120.55291299999999	2	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-03-24 23:37:31	39.17881957	-122.2331726	0	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-03-24 23:37:31	37.91923498	-121.9289527	86	1	0	0	Contra Costa, California, US
+06015	Del Norte	California	US	2020-03-24 23:37:31	41.74228275	-123.89740630000001	0	0	0	0	Del Norte, California, US
+06017	El Dorado	California	US	2020-03-24 23:37:31	38.77965956	-120.5233166	2	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-03-24 23:37:31	36.75733899	-119.6466953	13	0	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-03-24 23:37:31	39.59875897	-122.3938452	0	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-03-24 23:37:31	40.69923009	-123.876044	4	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-03-24 23:37:31	33.0393082	-115.36690420000001	6	0	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-03-24 23:37:31	36.51112084	-117.41119779999998	0	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-03-24 23:37:31	35.34329425	-118.72777959999999	13	0	0	0	Kern, California, US
+06031	Kings	California	US	2020-03-24 23:37:31	36.07409056	-119.8159973	0	0	0	0	Kings, California, US
+06033	Lake	California	US	2020-03-24 23:37:31	39.10124298	-122.75362439999999	0	0	0	0	Lake, California, US
+06035	Lassen	California	US	2020-03-24 23:37:31	40.67311306	-120.59350990000002	0	0	0	0	Lassen, California, US
+06037	Los Angeles	California	US	2020-03-24 23:37:31	34.30828379	-118.22824109999999	662	11	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-03-24 23:37:31	37.21513971	-119.76655890000002	6	0	0	0	Madera, California, US
+06041	Marin	California	US	2020-03-24 23:37:31	38.07122463	-122.72106310000001	47	0	0	0	Marin, California, US
+06043	Mariposa	California	US	2020-03-24 23:37:31	37.57978556	-119.9073334	0	0	0	0	Mariposa, California, US
+06045	Mendocino	California	US	2020-03-24 23:37:31	39.4381191	-123.39113130000001	2	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-03-24 23:37:31	37.18922369	-120.72090349999999	1	0	0	0	Merced, California, US
+06049	Modoc	California	US	2020-03-24 23:37:31	41.58965602	-120.7244817	0	0	0	0	Modoc, California, US
+06051	Mono	California	US	2020-03-24 23:37:31	37.93899289	-118.8872409	1	0	0	0	Mono, California, US
+06053	Monterey	California	US	2020-03-24 23:37:31	36.21862405	-121.24133970000001	20	1	0	0	Monterey, California, US
+06055	Napa	California	US	2020-03-24 23:37:31	38.50735751	-122.33283899999999	2	0	0	0	Napa, California, US
+06057	Nevada	California	US	2020-03-24 23:37:31	39.30394768	-120.76272809999999	3	0	0	0	Nevada, California, US
+06059	Orange	California	US	2020-03-24 23:37:31	33.70147516	-117.76459979999998	152	0	0	0	Orange, California, US
+06061	Placer	California	US	2020-03-24 23:37:31	39.06167234	-120.72405690000001	20	1	0	0	Placer, California, US
+06063	Plumas	California	US	2020-03-24 23:37:31	40.00355989	-120.8395236	0	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-03-24 23:37:31	33.74314981	-115.9933578	57	6	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-03-24 23:37:31	38.45106826	-121.34253740000001	88	4	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-03-24 23:37:31	36.60308176	-121.069975	6	1	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-03-24 23:37:31	34.84060306	-116.1774685	31	0	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-03-24 23:37:31	33.03484597	-116.73653259999999	226	1	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-03-24 23:37:31	37.75215114	-122.43856720000001	152	0	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-03-24 23:37:31	37.93433732	-121.2730061	51	2	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-03-24 23:37:31	35.38822029	-120.4039028	42	0	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-03-24 23:37:31	37.422880799999994	-122.32755459999998	161	1	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-03-24 23:37:31	34.65329488	-120.0188492	18	0	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-03-24 23:37:31	37.23104908	-121.6970462	375	16	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-03-24 23:37:31	37.05580291	-122.0066524	22	0	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-03-24 23:37:31	40.76391419	-122.0396884	2	0	0	0	Shasta, California, US
+06091	Sierra	California	US	2020-03-24 23:37:31	39.57713498	-120.52007009999998	0	0	0	0	Sierra, California, US
+06093	Siskiyou	California	US	2020-03-24 23:37:31	41.59198861	-122.54074340000001	2	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-03-24 23:37:31	38.26827353	-121.9357113	21	0	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-03-24 23:37:31	38.52746429	-122.88625060000001	29	1	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-03-24 23:37:31	37.55862499	-120.9970722	11	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-03-24 23:37:31	39.03417539	-121.6945899	0	0	0	0	Sutter, California, US
+06103	Tehama	California	US	2020-03-24 23:37:31	40.12570935	-122.23701709999999	0	0	0	0	Tehama, California, US
+06105	Trinity	California	US	2020-03-24 23:37:31	40.64917670000001	-123.114713	0	0	0	0	Trinity, California, US
+06107	Tulare	California	US	2020-03-24 23:37:31	36.22026558	-118.8020203	17	0	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-03-24 23:37:31	38.02644018	-119.95250929999999	0	0	0	0	Tuolumne, California, US
+06111	Ventura	California	US	2020-03-24 23:37:31	34.44465746	-119.09106129999999	35	1	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-03-24 23:37:31	38.68278902	-121.90182879999999	8	1	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-03-24 23:37:31	39.26255932	-121.35356440000001	3	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-03-25 23:33:19	37.64629437	-121.8929271	135	2	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-03-25 23:33:19	38.59678594	-119.82235940000001	0	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-03-25 23:33:19	38.44583082	-120.65696000000001	2	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-03-25 23:33:19	39.66727762	-121.6005252	4	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-03-25 23:33:19	38.20537103	-120.55291299999999	2	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-03-25 23:33:19	39.17881957	-122.2331726	0	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-03-25 23:33:19	37.91923498	-121.9289527	108	1	0	0	Contra Costa, California, US
+06015	Del Norte	California	US	2020-03-25 23:33:19	41.74228275	-123.89740630000001	0	0	0	0	Del Norte, California, US
+06017	El Dorado	California	US	2020-03-25 23:33:19	38.77965956	-120.5233166	3	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-03-25 23:33:19	36.75733899	-119.6466953	18	0	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-03-25 23:33:19	39.59875897	-122.3938452	0	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-03-25 23:33:19	40.69923009	-123.876044	5	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-03-25 23:33:19	33.0393082	-115.36690420000001	9	0	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-03-25 23:33:19	36.51112084	-117.41119779999998	1	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-03-25 23:33:19	35.34329425	-118.72777959999999	15	0	0	0	Kern, California, US
+06031	Kings	California	US	2020-03-25 23:33:19	36.07409056	-119.8159973	0	0	0	0	Kings, California, US
+06033	Lake	California	US	2020-03-25 23:33:19	39.10124298	-122.75362439999999	0	0	0	0	Lake, California, US
+06035	Lassen	California	US	2020-03-25 23:33:19	40.67311306	-120.59350990000002	0	0	0	0	Lassen, California, US
+06037	Los Angeles	California	US	2020-03-25 23:33:19	34.30828379	-118.22824109999999	812	13	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-03-25 23:33:19	37.21513971	-119.76655890000002	6	0	0	0	Madera, California, US
+06041	Marin	California	US	2020-03-25 23:33:19	38.07122463	-122.72106310000001	53	0	0	0	Marin, California, US
+06043	Mariposa	California	US	2020-03-25 23:33:19	37.57978556	-119.9073334	0	0	0	0	Mariposa, California, US
+06045	Mendocino	California	US	2020-03-25 23:33:19	39.4381191	-123.39113130000001	2	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-03-25 23:33:19	37.18922369	-120.72090349999999	2	0	0	0	Merced, California, US
+06049	Modoc	California	US	2020-03-25 23:33:19	41.58965602	-120.7244817	0	0	0	0	Modoc, California, US
+06051	Mono	California	US	2020-03-25 23:33:19	37.93899289	-118.8872409	4	0	0	0	Mono, California, US
+06053	Monterey	California	US	2020-03-25 23:33:19	36.21862405	-121.24133970000001	24	1	0	0	Monterey, California, US
+06055	Napa	California	US	2020-03-25 23:33:19	38.50735751	-122.33283899999999	2	0	0	0	Napa, California, US
+06057	Nevada	California	US	2020-03-25 23:33:19	39.30394768	-120.76272809999999	4	0	0	0	Nevada, California, US
+06059	Orange	California	US	2020-03-25 23:33:19	33.70147516	-117.76459979999998	187	1	0	0	Orange, California, US
+06061	Placer	California	US	2020-03-25 23:33:19	39.06167234	-120.72405690000001	30	1	0	0	Placer, California, US
+06063	Plumas	California	US	2020-03-25 23:33:19	40.00355989	-120.8395236	0	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-03-25 23:33:19	33.74314981	-115.9933578	68	7	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-03-25 23:33:19	38.45106826	-121.34253740000001	113	5	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-03-25 23:33:19	36.60308176	-121.069975	7	1	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-03-25 23:33:19	34.84060306	-116.1774685	38	1	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-03-25 23:33:19	33.03484597	-116.73653259999999	238	2	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-03-25 23:33:19	37.75215114	-122.43856720000001	178	1	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-03-25 23:33:19	37.93433732	-121.2730061	68	3	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-03-25 23:33:19	35.38822029	-120.4039028	46	0	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-03-25 23:33:19	37.422880799999994	-122.32755459999998	165	5	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-03-25 23:33:19	34.65329488	-120.0188492	24	0	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-03-25 23:33:19	37.23104908	-121.6970462	459	17	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-03-25 23:33:19	37.05580291	-122.0066524	24	0	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-03-25 23:33:19	40.76391419	-122.0396884	3	1	0	0	Shasta, California, US
+06091	Sierra	California	US	2020-03-25 23:33:19	39.57713498	-120.52007009999998	0	0	0	0	Sierra, California, US
+06093	Siskiyou	California	US	2020-03-25 23:33:19	41.59198861	-122.54074340000001	3	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-03-25 23:33:19	38.26827353	-121.9357113	24	0	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-03-25 23:33:19	38.52746429	-122.88625060000001	34	1	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-03-25 23:33:19	37.55862499	-120.9970722	12	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-03-25 23:33:19	39.03417539	-121.6945899	0	0	0	0	Sutter, California, US
+06103	Tehama	California	US	2020-03-25 23:33:19	40.12570935	-122.23701709999999	0	0	0	0	Tehama, California, US
+06105	Trinity	California	US	2020-03-25 23:33:19	40.64917670000001	-123.114713	0	0	0	0	Trinity, California, US
+06107	Tulare	California	US	2020-03-25 23:33:19	36.22026558	-118.8020203	17	0	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-03-25 23:33:19	38.02644018	-119.95250929999999	0	0	0	0	Tuolumne, California, US
+06111	Ventura	California	US	2020-03-25 23:33:19	34.44465746	-119.09106129999999	39	1	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-03-25 23:33:19	38.68278902	-121.90182879999999	10	1	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-03-25 23:33:19	39.26255932	-121.35356440000001	0	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-03-26 23:48:35	37.64629437	-121.8929271	178	4	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-03-26 23:48:35	38.59678594	-119.82235940000001	0	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-03-26 23:48:35	38.44583082	-120.65696000000001	2	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-03-26 23:48:35	39.66727762	-121.6005252	5	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-03-26 23:48:35	38.20537103	-120.55291299999999	3	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-03-26 23:48:35	39.17881957	-122.2331726	0	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-03-26 23:48:35	37.91923498	-121.9289527	131	1	0	0	Contra Costa, California, US
+06015	Del Norte	California	US	2020-03-26 23:48:35	41.74228275	-123.89740630000001	0	0	0	0	Del Norte, California, US
+06017	El Dorado	California	US	2020-03-26 23:48:35	38.77965956	-120.5233166	3	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-03-26 23:48:35	36.75733899	-119.6466953	19	0	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-03-26 23:48:35	39.59875897	-122.3938452	0	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-03-26 23:48:35	40.69923009	-123.876044	10	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-03-26 23:48:35	33.0393082	-115.36690420000001	9	0	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-03-26 23:48:35	36.51112084	-117.41119779999998	2	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-03-26 23:48:35	35.34329425	-118.72777959999999	29	0	0	0	Kern, California, US
+06031	Kings	California	US	2020-03-26 23:48:35	36.07409056	-119.8159973	0	0	0	0	Kings, California, US
+06033	Lake	California	US	2020-03-26 23:48:35	39.10124298	-122.75362439999999	0	0	0	0	Lake, California, US
+06035	Lassen	California	US	2020-03-26 23:48:35	40.67311306	-120.59350990000002	0	0	0	0	Lassen, California, US
+06037	Los Angeles	California	US	2020-03-26 23:48:35	34.30828379	-118.22824109999999	1229	21	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-03-26 23:48:35	37.21513971	-119.76655890000002	7	0	0	0	Madera, California, US
+06041	Marin	California	US	2020-03-26 23:48:35	38.07122463	-122.72106310000001	60	0	0	0	Marin, California, US
+06043	Mariposa	California	US	2020-03-26 23:48:35	37.57978556	-119.9073334	0	0	0	0	Mariposa, California, US
+06045	Mendocino	California	US	2020-03-26 23:48:35	39.4381191	-123.39113130000001	2	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-03-26 23:48:35	37.18922369	-120.72090349999999	2	0	0	0	Merced, California, US
+06049	Modoc	California	US	2020-03-26 23:48:35	41.58965602	-120.7244817	0	0	0	0	Modoc, California, US
+06051	Mono	California	US	2020-03-26 23:48:35	37.93899289	-118.8872409	4	0	0	0	Mono, California, US
+06053	Monterey	California	US	2020-03-26 23:48:35	36.21862405	-121.24133970000001	24	1	0	0	Monterey, California, US
+06055	Napa	California	US	2020-03-26 23:48:35	38.50735751	-122.33283899999999	6	0	0	0	Napa, California, US
+06057	Nevada	California	US	2020-03-26 23:48:35	39.30394768	-120.76272809999999	7	0	0	0	Nevada, California, US
+06059	Orange	California	US	2020-03-26 23:48:35	33.70147516	-117.76459979999998	256	1	0	0	Orange, California, US
+06061	Placer	California	US	2020-03-26 23:48:35	39.06167234	-120.72405690000001	30	1	0	0	Placer, California, US
+06063	Plumas	California	US	2020-03-26 23:48:35	40.00355989	-120.8395236	0	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-03-26 23:48:35	33.74314981	-115.9933578	105	8	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-03-26 23:48:35	38.45106826	-121.34253740000001	113	5	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-03-26 23:48:35	36.60308176	-121.069975	9	1	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-03-26 23:48:35	34.84060306	-116.1774685	54	2	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-03-26 23:48:35	33.03484597	-116.73653259999999	293	3	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-03-26 23:48:35	37.75215114	-122.43856720000001	223	2	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-03-26 23:48:35	37.93433732	-121.2730061	71	3	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-03-26 23:48:35	35.38822029	-120.4039028	54	0	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-03-26 23:48:35	37.422880799999994	-122.32755459999998	195	5	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-03-26 23:48:35	34.65329488	-120.0188492	26	0	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-03-26 23:48:35	37.23104908	-121.6970462	542	19	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-03-26 23:48:35	37.05580291	-122.0066524	25	0	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-03-26 23:48:35	40.76391419	-122.0396884	3	1	0	0	Shasta, California, US
+06091	Sierra	California	US	2020-03-26 23:48:35	39.57713498	-120.52007009999998	0	0	0	0	Sierra, California, US
+06093	Siskiyou	California	US	2020-03-26 23:48:35	41.59198861	-122.54074340000001	3	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-03-26 23:48:35	38.26827353	-121.9357113	31	0	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-03-26 23:48:35	38.52746429	-122.88625060000001	37	1	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-03-26 23:48:35	37.55862499	-120.9970722	13	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-03-26 23:48:35	39.03417539	-121.6945899	2	0	0	0	Sutter, California, US
+06103	Tehama	California	US	2020-03-26 23:48:35	40.12570935	-122.23701709999999	0	0	0	0	Tehama, California, US
+06105	Trinity	California	US	2020-03-26 23:48:35	40.64917670000001	-123.114713	0	0	0	0	Trinity, California, US
+06107	Tulare	California	US	2020-03-26 23:48:35	36.22026558	-118.8020203	18	0	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-03-26 23:48:35	38.02644018	-119.95250929999999	0	0	0	0	Tuolumne, California, US
+06111	Ventura	California	US	2020-03-26 23:48:35	34.44465746	-119.09106129999999	50	1	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-03-26 23:48:35	38.68278902	-121.90182879999999	11	1	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-03-26 23:48:35	39.26255932	-121.35356440000001	3	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-03-27 22:14:55	37.64629437	-121.8929271	220	4	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-03-27 22:14:55	38.59678594	-119.82235940000001	0	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-03-27 22:14:55	38.44583082	-120.65696000000001	2	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-03-27 22:14:55	39.66727762	-121.6005252	5	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-03-27 22:14:55	38.20537103	-120.55291299999999	3	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-03-27 22:14:55	39.17881957	-122.2331726	0	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-03-27 22:14:55	37.91923498	-121.9289527	147	1	0	0	Contra Costa, California, US
+06015	Del Norte	California	US	2020-03-27 22:14:55	41.74228275	-123.89740630000001	0	0	0	0	Del Norte, California, US
+06017	El Dorado	California	US	2020-03-27 22:14:55	38.77965956	-120.5233166	9	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-03-27 22:14:55	36.75733899	-119.6466953	27	0	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-03-27 22:14:55	39.59875897	-122.3938452	0	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-03-27 22:14:55	40.69923009	-123.876044	12	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-03-27 22:14:55	33.0393082	-115.36690420000001	17	0	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-03-27 22:14:55	36.51112084	-117.41119779999998	3	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-03-27 22:14:55	35.34329425	-118.72777959999999	33	1	0	0	Kern, California, US
+06031	Kings	California	US	2020-03-27 22:14:55	36.07409056	-119.8159973	0	0	0	0	Kings, California, US
+06033	Lake	California	US	2020-03-27 22:14:55	39.10124298	-122.75362439999999	0	0	0	0	Lake, California, US
+06035	Lassen	California	US	2020-03-27 22:14:55	40.67311306	-120.59350990000002	0	0	0	0	Lassen, California, US
+06037	Los Angeles	California	US	2020-03-27 22:14:55	34.30828379	-118.22824109999999	1465	26	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-03-27 22:14:55	37.21513971	-119.76655890000002	10	0	0	0	Madera, California, US
+06041	Marin	California	US	2020-03-27 22:14:55	38.07122463	-122.72106310000001	65	0	0	0	Marin, California, US
+06043	Mariposa	California	US	2020-03-27 22:14:55	37.57978556	-119.9073334	0	0	0	0	Mariposa, California, US
+06045	Mendocino	California	US	2020-03-27 22:14:55	39.4381191	-123.39113130000001	2	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-03-27 22:14:55	37.18922369	-120.72090349999999	4	0	0	0	Merced, California, US
+06049	Modoc	California	US	2020-03-27 22:14:55	41.58965602	-120.7244817	0	0	0	0	Modoc, California, US
+06051	Mono	California	US	2020-03-27 22:14:55	37.93899289	-118.8872409	6	0	0	0	Mono, California, US
+06053	Monterey	California	US	2020-03-27 22:14:55	36.21862405	-121.24133970000001	24	1	0	0	Monterey, California, US
+06055	Napa	California	US	2020-03-27 22:14:55	38.50735751	-122.33283899999999	6	0	0	0	Napa, California, US
+06057	Nevada	California	US	2020-03-27 22:14:55	39.30394768	-120.76272809999999	8	0	0	0	Nevada, California, US
+06059	Orange	California	US	2020-03-27 22:14:55	33.70147516	-117.76459979999998	321	3	0	0	Orange, California, US
+06061	Placer	California	US	2020-03-27 22:14:55	39.06167234	-120.72405690000001	30	1	0	0	Placer, California, US
+06063	Plumas	California	US	2020-03-27 22:14:55	40.00355989	-120.8395236	0	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-03-27 22:14:55	33.74314981	-115.9933578	149	8	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-03-27 22:14:55	38.45106826	-121.34253740000001	164	6	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-03-27 22:14:55	36.60308176	-121.069975	13	1	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-03-27 22:14:55	34.84060306	-116.1774685	54	3	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-03-27 22:14:55	33.03484597	-116.73653259999999	341	3	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-03-27 22:14:55	37.75215114	-122.43856720000001	279	3	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-03-27 22:14:55	37.93433732	-121.2730061	90	3	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-03-27 22:14:55	35.38822029	-120.4039028	59	0	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-03-27 22:14:55	37.422880799999994	-122.32755459999998	239	6	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-03-27 22:14:55	34.65329488	-120.0188492	32	0	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-03-27 22:14:55	37.23104908	-121.6970462	574	20	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-03-27 22:14:55	37.05580291	-122.0066524	32	0	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-03-27 22:14:55	40.76391419	-122.0396884	3	1	0	0	Shasta, California, US
+06091	Sierra	California	US	2020-03-27 22:14:55	39.57713498	-120.52007009999998	0	0	0	0	Sierra, California, US
+06093	Siskiyou	California	US	2020-03-27 22:14:55	41.59198861	-122.54074340000001	3	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-03-27 22:14:55	38.26827353	-121.9357113	34	0	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-03-27 22:14:55	38.52746429	-122.88625060000001	44	1	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-03-27 22:14:55	37.55862499	-120.9970722	17	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-03-27 22:14:55	39.03417539	-121.6945899	2	0	0	0	Sutter, California, US
+06103	Tehama	California	US	2020-03-27 22:14:55	40.12570935	-122.23701709999999	0	0	0	0	Tehama, California, US
+06105	Trinity	California	US	2020-03-27 22:14:55	40.64917670000001	-123.114713	0	0	0	0	Trinity, California, US
+06107	Tulare	California	US	2020-03-27 22:14:55	36.22026558	-118.8020203	20	0	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-03-27 22:14:55	38.02644018	-119.95250929999999	0	0	0	0	Tuolumne, California, US
+	Unassigned	California	US	2020-03-27 22:14:55	0.0	0.0	12	0	0	0	Unassigned, California, US
+06111	Ventura	California	US	2020-03-27 22:14:55	34.44465746	-119.09106129999999	61	1	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-03-27 22:14:55	38.68278902	-121.90182879999999	13	1	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-03-27 22:14:55	39.26255932	-121.35356440000001	3	0	0	0	Yuba, California, US
+6001	Alameda	California	US	3/28/20 23:05	37.64629437	-121.8929271	220	4	0	0	Alameda, California, US
+6003	Alpine	California	US	3/28/20 23:05	38.59678594	-119.8223594	0	0	0	0	Alpine, California, US
+6005	Amador	California	US	3/28/20 23:05	38.44583082	-120.65696	2	0	0	0	Amador, California, US
+6007	Butte	California	US	3/28/20 23:05	39.66727762	-121.6005252	5	0	0	0	Butte, California, US
+6009	Calaveras	California	US	3/28/20 23:05	38.20537103	-120.552913	3	0	0	0	Calaveras, California, US
+6011	Colusa	California	US	3/28/20 23:05	39.17881957	-122.2331726	1	0	0	0	Colusa, California, US
+6013	Contra Costa	California	US	3/28/20 23:05	37.91923498	-121.9289527	168	2	0	0	Contra Costa, California, US
+6015	Del Norte	California	US	3/28/20 23:05	41.74228275	-123.8974063	0	0	0	0	Del Norte, California, US
+6017	El Dorado	California	US	3/28/20 23:05	38.77965956	-120.5233166	12	0	0	0	El Dorado, California, US
+6019	Fresno	California	US	3/28/20 23:05	36.75733899	-119.6466953	31	0	0	0	Fresno, California, US
+6021	Glenn	California	US	3/28/20 23:05	39.59875897	-122.3938452	0	0	0	0	Glenn, California, US
+6023	Humboldt	California	US	3/28/20 23:05	40.69923009	-123.876044	14	0	0	0	Humboldt, California, US
+6025	Imperial	California	US	3/28/20 23:05	33.0393082	-115.3669042	21	0	0	0	Imperial, California, US
+6027	Inyo	California	US	3/28/20 23:05	36.51112084	-117.4111978	5	0	0	0	Inyo, California, US
+6029	Kern	California	US	3/28/20 23:05	35.34329425	-118.7277796	47	1	0	0	Kern, California, US
+6031	Kings	California	US	3/28/20 23:05	36.07409056	-119.8159973	2	0	0	0	Kings, California, US
+6033	Lake	California	US	3/28/20 23:05	39.10124298	-122.7536244	0	0	0	0	Lake, California, US
+6035	Lassen	California	US	3/28/20 23:05	40.67311306	-120.5935099	0	0	0	0	Lassen, California, US
+6037	Los Angeles	California	US	3/28/20 23:05	34.30828379	-118.2282411	1465	26	0	0	Los Angeles, California, US
+6039	Madera	California	US	3/28/20 23:05	37.21513971	-119.7665589	11	1	0	0	Madera, California, US
+6041	Marin	California	US	3/28/20 23:05	38.07122463	-122.7210631	68	1	0	0	Marin, California, US
+6043	Mariposa	California	US	3/28/20 23:05	37.57978556	-119.9073334	0	0	0	0	Mariposa, California, US
+6045	Mendocino	California	US	3/28/20 23:05	39.4381191	-123.3911313	2	0	0	0	Mendocino, California, US
+6047	Merced	California	US	3/28/20 23:05	37.18922369	-120.7209035	7	0	0	0	Merced, California, US
+6049	Modoc	California	US	3/28/20 23:05	41.58965602	-120.7244817	0	0	0	0	Modoc, California, US
+6051	Mono	California	US	3/28/20 23:05	37.93899289	-118.8872409	8	0	0	0	Mono, California, US
+6053	Monterey	California	US	3/28/20 23:05	36.21862405	-121.2413397	32	1	0	0	Monterey, California, US
+6055	Napa	California	US	3/28/20 23:05	38.50735751	-122.332839	9	0	0	0	Napa, California, US
+6057	Nevada	California	US	3/28/20 23:05	39.30394768	-120.7627281	12	0	0	0	Nevada, California, US
+6059	Orange	California	US	3/28/20 23:05	33.70147516	-117.7645998	403	4	0	0	Orange, California, US
+6061	Placer	California	US	3/28/20 23:05	39.06167234	-120.7240569	41	1	0	0	Placer, California, US
+6063	Plumas	California	US	3/28/20 23:05	40.00355989	-120.8395236	0	0	0	0	Plumas, California, US
+6065	Riverside	California	US	3/28/20 23:05	33.74314981	-115.9933578	183	8	0	0	Riverside, California, US
+6067	Sacramento	California	US	3/28/20 23:05	38.45106826	-121.3425374	164	6	0	0	Sacramento, California, US
+6069	San Benito	California	US	3/28/20 23:05	36.60308176	-121.069975	14	1	0	0	San Benito, California, US
+6071	San Bernardino	California	US	3/28/20 23:05	34.84060306	-116.1774685	76	3	0	0	San Bernardino, California, US
+6073	San Diego	California	US	3/28/20 23:05	33.03484597	-116.7365326	413	6	0	0	San Diego, California, US
+6075	San Francisco	California	US	3/28/20 23:05	37.75215114	-122.4385672	308	4	0	0	San Francisco, California, US
+6077	San Joaquin	California	US	3/28/20 23:05	37.93433732	-121.2730061	93	4	0	0	San Joaquin, California, US
+6079	San Luis Obispo	California	US	3/28/20 23:05	35.38822029	-120.4039028	67	0	0	0	San Luis Obispo, California, US
+6081	San Mateo	California	US	3/28/20 23:05	37.4228808	-122.3275546	274	6	0	0	San Mateo, California, US
+6083	Santa Barbara	California	US	3/28/20 23:05	34.65329488	-120.0188492	47	0	0	0	Santa Barbara, California, US
+6085	Santa Clara	California	US	3/28/20 23:05	37.23104908	-121.6970462	591	25	0	0	Santa Clara, California, US
+6087	Santa Cruz	California	US	3/28/20 23:05	37.05580291	-122.0066524	34	0	0	0	Santa Cruz, California, US
+6089	Shasta	California	US	3/28/20 23:05	40.76391419	-122.0396884	3	1	0	0	Shasta, California, US
+6091	Sierra	California	US	3/28/20 23:05	39.57713498	-120.5200701	0	0	0	0	Sierra, California, US
+6093	Siskiyou	California	US	3/28/20 23:05	41.59198861	-122.5407434	3	0	0	0	Siskiyou, California, US
+6095	Solano	California	US	3/28/20 23:05	38.26827353	-121.9357113	34	0	0	0	Solano, California, US
+6097	Sonoma	California	US	3/28/20 23:05	38.52746429	-122.8862506	50	1	0	0	Sonoma, California, US
+6099	Stanislaus	California	US	3/28/20 23:05	37.55862499	-120.9970722	23	0	0	0	Stanislaus, California, US
+6101	Sutter	California	US	3/28/20 23:05	39.03417539	-121.6945899	3	0	0	0	Sutter, California, US
+6103	Tehama	California	US	3/28/20 23:05	40.12570935	-122.2370171	0	0	0	0	Tehama, California, US
+6105	Trinity	California	US	3/28/20 23:05	40.6491767	-123.114713	0	0	0	0	Trinity, California, US
+6107	Tulare	California	US	3/28/20 23:05	36.22026558	-118.8020203	24	0	0	0	Tulare, California, US
+6109	Tuolumne	California	US	3/28/20 23:05	38.02644018	-119.9525093	0	0	0	0	Tuolumne, California, US
+6111	Ventura	California	US	3/28/20 23:05	34.44465746	-119.0910613	83	3	0	0	Ventura, California, US
+6113	Yolo	California	US	3/28/20 23:05	38.68278902	-121.9018288	16	1	0	0	Yolo, California, US
+6115	Yuba	California	US	3/28/20 23:05	39.26255932	-121.3535644	3	0	0	0	Yuba, California, US
+6001	Alameda	California	US	3/29/20 23:08	37.64629437	-121.8929271	270	6	0	0	Alameda, California, US
+6003	Alpine	California	US	3/29/20 23:08	38.59678594	-119.8223594	0	0	0	0	Alpine, California, US
+6005	Amador	California	US	3/29/20 23:08	38.44583082	-120.65696	2	0	0	0	Amador, California, US
+6007	Butte	California	US	3/29/20 23:08	39.66727762	-121.6005252	5	0	0	0	Butte, California, US
+6009	Calaveras	California	US	3/29/20 23:08	38.20537103	-120.552913	3	0	0	0	Calaveras, California, US
+6011	Colusa	California	US	3/29/20 23:08	39.17881957	-122.2331726	1	0	0	0	Colusa, California, US
+6013	Contra Costa	California	US	3/29/20 23:08	37.91923498	-121.9289527	168	3	0	0	Contra Costa, California, US
+6015	Del Norte	California	US	3/29/20 23:08	41.74228275	-123.8974063	0	0	0	0	Del Norte, California, US
+6017	El Dorado	California	US	3/29/20 23:08	38.77965956	-120.5233166	12	0	0	0	El Dorado, California, US
+6019	Fresno	California	US	3/29/20 23:08	36.75733899	-119.6466953	43	0	0	0	Fresno, California, US
+6021	Glenn	California	US	3/29/20 23:08	39.59875897	-122.3938452	1	0	0	0	Glenn, California, US
+6023	Humboldt	California	US	3/29/20 23:08	40.69923009	-123.876044	18	0	0	0	Humboldt, California, US
+6025	Imperial	California	US	3/29/20 23:08	33.0393082	-115.3669042	25	0	0	0	Imperial, California, US
+6027	Inyo	California	US	3/29/20 23:08	36.51112084	-117.4111978	8	0	0	0	Inyo, California, US
+6029	Kern	California	US	3/29/20 23:08	35.34329425	-118.7277796	51	1	0	0	Kern, California, US
+6031	Kings	California	US	3/29/20 23:08	36.07409056	-119.8159973	2	0	0	0	Kings, California, US
+6033	Lake	California	US	3/29/20 23:08	39.10124298	-122.7536244	0	0	0	0	Lake, California, US
+6035	Lassen	California	US	3/29/20 23:08	40.67311306	-120.5935099	0	0	0	0	Lassen, California, US
+6037	Los Angeles	California	US	3/29/20 23:08	34.30828379	-118.2282411	1829	32	0	0	Los Angeles, California, US
+6039	Madera	California	US	3/29/20 23:08	37.21513971	-119.7665589	15	1	0	0	Madera, California, US
+6041	Marin	California	US	3/29/20 23:08	38.07122463	-122.7210631	74	1	0	0	Marin, California, US
+6043	Mariposa	California	US	3/29/20 23:08	37.57978556	-119.9073334	0	0	0	0	Mariposa, California, US
+6045	Mendocino	California	US	3/29/20 23:08	39.4381191	-123.3911313	3	0	0	0	Mendocino, California, US
+6047	Merced	California	US	3/29/20 23:08	37.18922369	-120.7209035	8	0	0	0	Merced, California, US
+6049	Modoc	California	US	3/29/20 23:08	41.58965602	-120.7244817	0	0	0	0	Modoc, California, US
+6051	Mono	California	US	3/29/20 23:08	37.93899289	-118.8872409	11	0	0	0	Mono, California, US
+6053	Monterey	California	US	3/29/20 23:08	36.21862405	-121.2413397	36	1	0	0	Monterey, California, US
+6055	Napa	California	US	3/29/20 23:08	38.50735751	-122.332839	10	0	0	0	Napa, California, US
+6057	Nevada	California	US	3/29/20 23:08	39.30394768	-120.7627281	12	0	0	0	Nevada, California, US
+6059	Orange	California	US	3/29/20 23:08	33.70147516	-117.7645998	431	4	0	0	Orange, California, US
+6061	Placer	California	US	3/29/20 23:08	39.06167234	-120.7240569	53	2	0	0	Placer, California, US
+6063	Plumas	California	US	3/29/20 23:08	40.00355989	-120.8395236	0	0	0	0	Plumas, California, US
+6065	Riverside	California	US	3/29/20 23:08	33.74314981	-115.9933578	195	8	0	0	Riverside, California, US
+6067	Sacramento	California	US	3/29/20 23:08	38.45106826	-121.3425374	164	6	0	0	Sacramento, California, US
+6069	San Benito	California	US	3/29/20 23:08	36.60308176	-121.069975	14	1	0	0	San Benito, California, US
+6071	San Bernardino	California	US	3/29/20 23:08	34.84060306	-116.1774685	76	3	0	0	San Bernardino, California, US
+6073	San Diego	California	US	3/29/20 23:08	33.03484597	-116.7365326	484	7	0	0	San Diego, California, US
+6075	San Francisco	California	US	3/29/20 23:08	37.75215114	-122.4385672	340	4	0	0	San Francisco, California, US
+6077	San Joaquin	California	US	3/29/20 23:08	37.93433732	-121.2730061	113	4	0	0	San Joaquin, California, US
+6079	San Luis Obispo	California	US	3/29/20 23:08	35.38822029	-120.4039028	67	0	0	0	San Luis Obispo, California, US
+6081	San Mateo	California	US	3/29/20 23:08	37.4228808	-122.3275546	277	6	0	0	San Mateo, California, US
+6083	Santa Barbara	California	US	3/29/20 23:08	34.65329488	-120.0188492	64	0	0	0	Santa Barbara, California, US
+6085	Santa Clara	California	US	3/29/20 23:08	37.23104908	-121.6970462	646	25	0	0	Santa Clara, California, US
+6087	Santa Cruz	California	US	3/29/20 23:08	37.05580291	-122.0066524	41	1	0	0	Santa Cruz, California, US
+6089	Shasta	California	US	3/29/20 23:08	40.76391419	-122.0396884	4	1	0	0	Shasta, California, US
+6091	Sierra	California	US	3/29/20 23:08	39.57713498	-120.5200701	0	0	0	0	Sierra, California, US
+6093	Siskiyou	California	US	3/29/20 23:08	41.59198861	-122.5407434	3	0	0	0	Siskiyou, California, US
+6095	Solano	California	US	3/29/20 23:08	38.26827353	-121.9357113	34	0	0	0	Solano, California, US
+6097	Sonoma	California	US	3/29/20 23:08	38.52746429	-122.8862506	58	1	0	0	Sonoma, California, US
+6099	Stanislaus	California	US	3/29/20 23:08	37.55862499	-120.9970722	29	0	0	0	Stanislaus, California, US
+6101	Sutter	California	US	3/29/20 23:08	39.03417539	-121.6945899	6	0	0	0	Sutter, California, US
+6103	Tehama	California	US	3/29/20 23:08	40.12570935	-122.2370171	0	0	0	0	Tehama, California, US
+6105	Trinity	California	US	3/29/20 23:08	40.6491767	-123.114713	0	0	0	0	Trinity, California, US
+6107	Tulare	California	US	3/29/20 23:08	36.22026558	-118.8020203	29	1	0	0	Tulare, California, US
+6109	Tuolumne	California	US	3/29/20 23:08	38.02644018	-119.9525093	0	0	0	0	Tuolumne, California, US
+	Unassigned	California	US	3/29/20 23:08	0	0	0	1	0	0	Unassigned, California, US
+6111	Ventura	California	US	3/29/20 23:08	34.44465746	-119.0910613	98	3	0	0	Ventura, California, US
+6113	Yolo	California	US	3/29/20 23:08	38.68278902	-121.9018288	16	1	0	0	Yolo, California, US
+6115	Yuba	California	US	3/29/20 23:08	39.26255932	-121.3535644	3	0	0	0	Yuba, California, US
+6001	Alameda	California	US	3/30/20 22:52	37.64629437	-121.8929271	283	7	0	0	Alameda, California, US
+6003	Alpine	California	US	3/30/20 22:52	38.59678594	-119.8223594	0	0	0	0	Alpine, California, US
+6005	Amador	California	US	3/30/20 22:52	38.44583082	-120.65696	2	0	0	0	Amador, California, US
+6007	Butte	California	US	3/30/20 22:52	39.66727762	-121.6005252	5	0	0	0	Butte, California, US
+6009	Calaveras	California	US	3/30/20 22:52	38.20537103	-120.552913	3	0	0	0	Calaveras, California, US
+6011	Colusa	California	US	3/30/20 22:52	39.17881957	-122.2331726	1	0	0	0	Colusa, California, US
+6013	Contra Costa	California	US	3/30/20 22:52	37.91923498	-121.9289527	187	3	0	0	Contra Costa, California, US
+6015	Del Norte	California	US	3/30/20 22:52	41.74228275	-123.8974063	0	0	0	0	Del Norte, California, US
+6017	El Dorado	California	US	3/30/20 22:52	38.77965956	-120.5233166	12	0	0	0	El Dorado, California, US
+6019	Fresno	California	US	3/30/20 22:52	36.75733899	-119.6466953	43	0	0	0	Fresno, California, US
+6021	Glenn	California	US	3/30/20 22:52	39.59875897	-122.3938452	1	0	0	0	Glenn, California, US
+6023	Humboldt	California	US	3/30/20 22:52	40.69923009	-123.876044	18	0	0	0	Humboldt, California, US
+6025	Imperial	California	US	3/30/20 22:52	33.0393082	-115.3669042	25	0	0	0	Imperial, California, US
+6027	Inyo	California	US	3/30/20 22:52	36.51112084	-117.4111978	8	0	0	0	Inyo, California, US
+6029	Kern	California	US	3/30/20 22:52	35.34329425	-118.7277796	60	1	0	0	Kern, California, US
+6031	Kings	California	US	3/30/20 22:52	36.07409056	-119.8159973	2	0	0	0	Kings, California, US
+6033	Lake	California	US	3/30/20 22:52	39.10124298	-122.7536244	0	0	0	0	Lake, California, US
+6035	Lassen	California	US	3/30/20 22:52	40.67311306	-120.5935099	0	0	0	0	Lassen, California, US
+6037	Los Angeles	California	US	3/30/20 22:52	34.30828379	-118.2282411	2474	44	0	0	Los Angeles, California, US
+6039	Madera	California	US	3/30/20 22:52	37.21513971	-119.7665589	18	1	0	0	Madera, California, US
+6041	Marin	California	US	3/30/20 22:52	38.07122463	-122.7210631	93	1	0	0	Marin, California, US
+6043	Mariposa	California	US	3/30/20 22:52	37.57978556	-119.9073334	0	0	0	0	Mariposa, California, US
+6045	Mendocino	California	US	3/30/20 22:52	39.4381191	-123.3911313	4	0	0	0	Mendocino, California, US
+6047	Merced	California	US	3/30/20 22:52	37.18922369	-120.7209035	9	0	0	0	Merced, California, US
+6049	Modoc	California	US	3/30/20 22:52	41.58965602	-120.7244817	0	0	0	0	Modoc, California, US
+6051	Mono	California	US	3/30/20 22:52	37.93899289	-118.8872409	13	0	0	0	Mono, California, US
+6053	Monterey	California	US	3/30/20 22:52	36.21862405	-121.2413397	36	1	0	0	Monterey, California, US
+6055	Napa	California	US	3/30/20 22:52	38.50735751	-122.332839	14	0	0	0	Napa, California, US
+6057	Nevada	California	US	3/30/20 22:52	39.30394768	-120.7627281	17	0	0	0	Nevada, California, US
+6059	Orange	California	US	3/30/20 22:52	33.70147516	-117.7645998	464	4	0	0	Orange, California, US
+6061	Placer	California	US	3/30/20 22:52	39.06167234	-120.7240569	53	2	0	0	Placer, California, US
+6063	Plumas	California	US	3/30/20 22:52	40.00355989	-120.8395236	0	0	0	0	Plumas, California, US
+6065	Riverside	California	US	3/30/20 22:52	33.74314981	-115.9933578	291	9	0	0	Riverside, California, US
+6067	Sacramento	California	US	3/30/20 22:52	38.45106826	-121.3425374	224	7	0	0	Sacramento, California, US
+6069	San Benito	California	US	3/30/20 22:52	36.60308176	-121.069975	14	1	0	0	San Benito, California, US
+6071	San Bernardino	California	US	3/30/20 22:52	34.84060306	-116.1774685	111	3	0	0	San Bernardino, California, US
+6073	San Diego	California	US	3/30/20 22:52	33.03484597	-116.7365326	515	7	0	0	San Diego, California, US
+6075	San Francisco	California	US	3/30/20 22:52	37.75215114	-122.4385672	374	6	0	0	San Francisco, California, US
+6077	San Joaquin	California	US	3/30/20 22:52	37.93433732	-121.2730061	123	6	0	0	San Joaquin, California, US
+6079	San Luis Obispo	California	US	3/30/20 22:52	35.38822029	-120.4039028	71	0	0	0	San Luis Obispo, California, US
+6081	San Mateo	California	US	3/30/20 22:52	37.4228808	-122.3275546	309	6	0	0	San Mateo, California, US
+6083	Santa Barbara	California	US	3/30/20 22:52	34.65329488	-120.0188492	68	0	0	0	Santa Barbara, California, US
+6085	Santa Clara	California	US	3/30/20 22:52	37.23104908	-121.6970462	848	28	0	0	Santa Clara, California, US
+6087	Santa Cruz	California	US	3/30/20 22:52	37.05580291	-122.0066524	44	1	0	0	Santa Cruz, California, US
+6089	Shasta	California	US	3/30/20 22:52	40.76391419	-122.0396884	4	1	0	0	Shasta, California, US
+6091	Sierra	California	US	3/30/20 22:52	39.57713498	-120.5200701	0	0	0	0	Sierra, California, US
+6093	Siskiyou	California	US	3/30/20 22:52	41.59198861	-122.5407434	4	0	0	0	Siskiyou, California, US
+6095	Solano	California	US	3/30/20 22:52	38.26827353	-121.9357113	34	0	0	0	Solano, California, US
+6097	Sonoma	California	US	3/30/20 22:52	38.52746429	-122.8862506	58	1	0	0	Sonoma, California, US
+6099	Stanislaus	California	US	3/30/20 22:52	37.55862499	-120.9970722	31	0	0	0	Stanislaus, California, US
+6101	Sutter	California	US	3/30/20 22:52	39.03417539	-121.6945899	6	0	0	0	Sutter, California, US
+6103	Tehama	California	US	3/30/20 22:52	40.12570935	-122.2370171	0	0	0	0	Tehama, California, US
+6105	Trinity	California	US	3/30/20 22:52	40.6491767	-123.114713	0	0	0	0	Trinity, California, US
+6107	Tulare	California	US	3/30/20 22:52	36.22026558	-118.8020203	35	1	0	0	Tulare, California, US
+6109	Tuolumne	California	US	3/30/20 22:52	38.02644018	-119.9525093	0	0	0	0	Tuolumne, California, US
+	Unassigned	California	US	3/30/20 22:52	0	0	0	0	0	0	Unassigned, California, US
+6111	Ventura	California	US	3/30/20 22:52	34.44465746	-119.0910613	109	4	0	0	Ventura, California, US
+6113	Yolo	California	US	3/30/20 22:52	38.68278902	-121.9018288	16	1	0	0	Yolo, California, US
+6115	Yuba	California	US	3/30/20 22:52	39.26255932	-121.3535644	4	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-03-31 23:43:56	37.64629437	-121.8929271	313	7	0	0	Alameda, California, US
+06005	Amador	California	US	2020-03-31 23:43:56	38.44583082	-120.65696000000001	2	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-03-31 23:43:56	39.66727762	-121.6005252	8	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-03-31 23:43:56	38.20537103	-120.55291299999999	3	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-03-31 23:43:56	39.17881957	-122.2331726	1	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-03-31 23:43:56	37.91923498	-121.9289527	212	3	0	0	Contra Costa, California, US
+06017	El Dorado	California	US	2020-03-31 23:43:56	38.77965956	-120.5233166	15	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-03-31 23:43:56	36.75733899	-119.6466953	53	0	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-03-31 23:43:56	39.59875897	-122.3938452	2	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-03-31 23:43:56	40.69923009	-123.876044	21	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-03-31 23:43:56	33.0393082	-115.36690420000001	33	0	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-03-31 23:43:56	36.51112084	-117.41119779999998	8	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-03-31 23:43:56	35.34329425	-118.72777959999999	83	1	0	0	Kern, California, US
+06031	Kings	California	US	2020-03-31 23:43:56	36.07409056	-119.8159973	3	0	0	0	Kings, California, US
+06037	Los Angeles	California	US	2020-03-31 23:43:56	34.30828379	-118.22824109999999	3019	54	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-03-31 23:43:56	37.21513971	-119.76655890000002	21	1	0	0	Madera, California, US
+06041	Marin	California	US	2020-03-31 23:43:56	38.07122463	-122.72106310000001	99	4	0	0	Marin, California, US
+06045	Mendocino	California	US	2020-03-31 23:43:56	39.4381191	-123.39113130000001	4	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-03-31 23:43:56	37.18922369	-120.72090349999999	10	0	0	0	Merced, California, US
+06051	Mono	California	US	2020-03-31 23:43:56	37.93899289	-118.8872409	13	0	0	0	Mono, California, US
+06053	Monterey	California	US	2020-03-31 23:43:56	36.21862405	-121.24133970000001	40	1	0	0	Monterey, California, US
+06055	Napa	California	US	2020-03-31 23:43:56	38.50735751	-122.33283899999999	14	0	0	0	Napa, California, US
+06057	Nevada	California	US	2020-03-31 23:43:56	39.30394768	-120.76272809999999	21	0	0	0	Nevada, California, US
+06059	Orange	California	US	2020-03-31 23:43:56	33.70147516	-117.76459979999998	502	7	0	0	Orange, California, US
+06061	Placer	California	US	2020-03-31 23:43:56	39.06167234	-120.72405690000001	57	2	0	0	Placer, California, US
+06065	Riverside	California	US	2020-03-31 23:43:56	33.74314981	-115.9933578	371	13	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-03-31 23:43:56	38.45106826	-121.34253740000001	224	7	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-03-31 23:43:56	36.60308176	-121.069975	17	1	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-03-31 23:43:56	34.84060306	-116.1774685	125	4	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-03-31 23:43:56	33.03484597	-116.73653259999999	603	7	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-03-31 23:43:56	37.75215114	-122.43856720000001	397	6	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-03-31 23:43:56	37.93433732	-121.2730061	136	6	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-03-31 23:43:56	35.38822029	-120.4039028	80	0	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-03-31 23:43:56	37.422880799999994	-122.32755459999998	309	10	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-03-31 23:43:56	34.65329488	-120.0188492	88	0	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-03-31 23:43:56	37.23104908	-121.6970462	890	30	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-03-31 23:43:56	37.05580291	-122.0066524	45	1	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-03-31 23:43:56	40.76391419	-122.0396884	6	1	0	0	Shasta, California, US
+06093	Siskiyou	California	US	2020-03-31 23:43:56	41.59198861	-122.54074340000001	3	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-03-31 23:43:56	38.26827353	-121.9357113	43	0	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-03-31 23:43:56	38.52746429	-122.88625060000001	73	1	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-03-31 23:43:56	37.55862499	-120.9970722	33	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-03-31 23:43:56	39.03417539	-121.6945899	9	0	0	0	Sutter, California, US
+06107	Tulare	California	US	2020-03-31 23:43:56	36.22026558	-118.8020203	43	1	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-03-31 23:43:56	38.02644018	-119.95250929999999	2	0	0	0	Tuolumne, California, US
+	Unassigned	California	US	2020-03-31 23:43:56	0.0	0.0	0	0	0	0	Unassigned, California, US
+06111	Ventura	California	US	2020-03-31 23:43:56	34.44465746	-119.09106129999999	126	4	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-03-31 23:43:56	38.68278902	-121.90182879999999	24	1	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-03-31 23:43:56	39.26255932	-121.35356440000001	6	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-04-01 21:58:49	37.64629437	-121.8929271	313	7	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-04-01 21:58:49	38.59678594	-119.82235940000001	1	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-04-01 21:58:49	38.44583082	-120.65696000000001	2	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-04-01 21:58:49	39.66727762	-121.6005252	8	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-04-01 21:58:49	38.20537103	-120.55291299999999	3	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-04-01 21:58:49	39.17881957	-122.2331726	1	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-04-01 21:58:49	37.91923498	-121.9289527	249	3	0	0	Contra Costa, California, US
+06017	El Dorado	California	US	2020-04-01 21:58:49	38.77965956	-120.5233166	18	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-04-01 21:58:49	36.75733899	-119.6466953	68	0	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-04-01 21:58:49	39.59875897	-122.3938452	2	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-04-01 21:58:49	40.69923009	-123.876044	27	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-04-01 21:58:49	33.0393082	-115.36690420000001	38	0	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-04-01 21:58:49	36.51112084	-117.41119779999998	9	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-04-01 21:58:49	35.34329425	-118.72777959999999	110	1	0	0	Kern, California, US
+06031	Kings	California	US	2020-04-01 21:58:49	36.07409056	-119.8159973	4	0	0	0	Kings, California, US
+06037	Los Angeles	California	US	2020-04-01 21:58:49	34.30828379	-118.22824109999999	3518	64	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-04-01 21:58:49	37.21513971	-119.76655890000002	23	1	0	0	Madera, California, US
+06041	Marin	California	US	2020-04-01 21:58:49	38.07122463	-122.72106310000001	107	4	0	0	Marin, California, US
+06045	Mendocino	California	US	2020-04-01 21:58:49	39.4381191	-123.39113130000001	4	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-04-01 21:58:49	37.18922369	-120.72090349999999	10	0	0	0	Merced, California, US
+06051	Mono	California	US	2020-04-01 21:58:49	37.93899289	-118.8872409	13	1	0	0	Mono, California, US
+06053	Monterey	California	US	2020-04-01 21:58:49	36.21862405	-121.24133970000001	42	1	0	0	Monterey, California, US
+06055	Napa	California	US	2020-04-01 21:58:49	38.50735751	-122.33283899999999	15	0	0	0	Napa, California, US
+06057	Nevada	California	US	2020-04-01 21:58:49	39.30394768	-120.76272809999999	26	0	0	0	Nevada, California, US
+06059	Orange	California	US	2020-04-01 21:58:49	33.70147516	-117.76459979999998	606	10	0	0	Orange, California, US
+06061	Placer	California	US	2020-04-01 21:58:49	39.06167234	-120.72405690000001	78	2	0	0	Placer, California, US
+06063	Plumas	California	US	2020-04-01 21:58:49	40.00355989	-120.8395236	1	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-04-01 21:58:49	33.74314981	-115.9933578	371	13	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-04-01 21:58:49	38.45106826	-121.34253740000001	224	7	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-04-01 21:58:49	36.60308176	-121.069975	21	1	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-04-01 21:58:49	34.84060306	-116.1774685	183	6	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-04-01 21:58:49	33.03484597	-116.73653259999999	733	9	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-04-01 21:58:49	37.75215114	-122.43856720000001	434	7	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-04-01 21:58:49	37.93433732	-121.2730061	151	8	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-04-01 21:58:49	35.38822029	-120.4039028	80	0	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-04-01 21:58:49	37.422880799999994	-122.32755459999998	388	10	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-04-01 21:58:49	34.65329488	-120.0188492	99	0	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-04-01 21:58:49	37.23104908	-121.6970462	956	32	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-04-01 21:58:49	37.05580291	-122.0066524	49	1	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-04-01 21:58:49	40.76391419	-122.0396884	7	1	0	0	Shasta, California, US
+06093	Siskiyou	California	US	2020-04-01 21:58:49	41.59198861	-122.54074340000001	3	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-04-01 21:58:49	38.26827353	-121.9357113	49	0	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-04-01 21:58:49	38.52746429	-122.88625060000001	78	2	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-04-01 21:58:49	37.55862499	-120.9970722	39	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-04-01 21:58:49	39.03417539	-121.6945899	10	0	0	0	Sutter, California, US
+06107	Tulare	California	US	2020-04-01 21:58:49	36.22026558	-118.8020203	45	1	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-04-01 21:58:49	38.02644018	-119.95250929999999	2	0	0	0	Tuolumne, California, US
+	Unassigned	California	US	2020-04-01 21:58:49	0.0	0.0	0	1	0	0	Unassigned, California, US
+06111	Ventura	California	US	2020-04-01 21:58:49	34.44465746	-119.09106129999999	149	5	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-04-01 21:58:49	38.68278902	-121.90182879999999	25	1	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-04-01 21:58:49	39.26255932	-121.35356440000001	7	0	0	0	Yuba, California, US
+6001	Alameda	California	US	4/2/20 23:25	37.64629437	-121.8929271	359	8	0	0	Alameda, California, US
+6003	Alpine	California	US	4/2/20 23:25	38.59678594	-119.8223594	1	0	0	0	Alpine, California, US
+6005	Amador	California	US	4/2/20 23:25	38.44583082	-120.65696	3	0	0	0	Amador, California, US
+6007	Butte	California	US	4/2/20 23:25	39.66727762	-121.6005252	9	0	0	0	Butte, California, US
+6009	Calaveras	California	US	4/2/20 23:25	38.20537103	-120.552913	3	0	0	0	Calaveras, California, US
+6011	Colusa	California	US	4/2/20 23:25	39.17881957	-122.2331726	1	0	0	0	Colusa, California, US
+6013	Contra Costa	California	US	4/2/20 23:25	37.91923498	-121.9289527	250	3	0	0	Contra Costa, California, US
+6017	El Dorado	California	US	4/2/20 23:25	38.77965956	-120.5233166	18	0	0	0	El Dorado, California, US
+6019	Fresno	California	US	4/2/20 23:25	36.75733899	-119.6466953	82	0	0	0	Fresno, California, US
+6021	Glenn	California	US	4/2/20 23:25	39.59875897	-122.3938452	2	0	0	0	Glenn, California, US
+6023	Humboldt	California	US	4/2/20 23:25	40.69923009	-123.876044	28	0	0	0	Humboldt, California, US
+6025	Imperial	California	US	4/2/20 23:25	33.0393082	-115.3669042	43	1	0	0	Imperial, California, US
+6027	Inyo	California	US	4/2/20 23:25	36.51112084	-117.4111978	9	0	0	0	Inyo, California, US
+6029	Kern	California	US	4/2/20 23:25	35.34329425	-118.7277796	142	1	0	0	Kern, California, US
+6031	Kings	California	US	4/2/20 23:25	36.07409056	-119.8159973	5	0	0	0	Kings, California, US
+6037	Los Angeles	California	US	4/2/20 23:25	34.30828379	-118.2282411	4045	78	0	0	Los Angeles, California, US
+6039	Madera	California	US	4/2/20 23:25	37.21513971	-119.7665589	25	1	0	0	Madera, California, US
+6041	Marin	California	US	4/2/20 23:25	38.07122463	-122.7210631	108	6	0	0	Marin, California, US
+6045	Mendocino	California	US	4/2/20 23:25	39.4381191	-123.3911313	4	0	0	0	Mendocino, California, US
+6047	Merced	California	US	4/2/20 23:25	37.18922369	-120.7209035	12	0	0	0	Merced, California, US
+6051	Mono	California	US	4/2/20 23:25	37.93899289	-118.8872409	18	1	0	0	Mono, California, US
+6053	Monterey	California	US	4/2/20 23:25	36.21862405	-121.2413397	48	2	0	0	Monterey, California, US
+6055	Napa	California	US	4/2/20 23:25	38.50735751	-122.332839	18	1	0	0	Napa, California, US
+6057	Nevada	California	US	4/2/20 23:25	39.30394768	-120.7627281	26	0	0	0	Nevada, California, US
+6059	Orange	California	US	4/2/20 23:25	33.70147516	-117.7645998	656	13	0	0	Orange, California, US
+6061	Placer	California	US	4/2/20 23:25	39.06167234	-120.7240569	90	2	0	0	Placer, California, US
+6063	Plumas	California	US	4/2/20 23:25	40.00355989	-120.8395236	1	0	0	0	Plumas, California, US
+6065	Riverside	California	US	4/2/20 23:25	33.74314981	-115.9933578	493	14	0	0	Riverside, California, US
+6067	Sacramento	California	US	4/2/20 23:25	38.45106826	-121.3425374	314	9	0	0	Sacramento, California, US
+6069	San Benito	California	US	4/2/20 23:25	36.60308176	-121.069975	23	1	0	0	San Benito, California, US
+6071	San Bernardino	California	US	4/2/20 23:25	34.84060306	-116.1774685	254	6	0	0	San Bernardino, California, US
+6073	San Diego	California	US	4/2/20 23:25	33.03484597	-116.7365326	849	15	0	0	San Diego, California, US
+6075	San Francisco	California	US	4/2/20 23:25	37.75215114	-122.4385672	450	7	0	0	San Francisco, California, US
+6077	San Joaquin	California	US	4/2/20 23:25	37.93433732	-121.2730061	173	9	0	0	San Joaquin, California, US
+6079	San Luis Obispo	California	US	4/2/20 23:25	35.38822029	-120.4039028	89	0	0	0	San Luis Obispo, California, US
+6081	San Mateo	California	US	4/2/20 23:25	37.4228808	-122.3275546	453	10	0	0	San Mateo, California, US
+6083	Santa Barbara	California	US	4/2/20 23:25	34.65329488	-120.0188492	111	1	0	0	Santa Barbara, California, US
+6085	Santa Clara	California	US	4/2/20 23:25	37.23104908	-121.6970462	1019	36	0	0	Santa Clara, California, US
+6087	Santa Cruz	California	US	4/2/20 23:25	37.05580291	-122.0066524	54	1	0	0	Santa Cruz, California, US
+6089	Shasta	California	US	4/2/20 23:25	40.76391419	-122.0396884	7	1	0	0	Shasta, California, US
+6093	Siskiyou	California	US	4/2/20 23:25	41.59198861	-122.5407434	3	0	0	0	Siskiyou, California, US
+6095	Solano	California	US	4/2/20 23:25	38.26827353	-121.9357113	54	0	0	0	Solano, California, US
+6097	Sonoma	California	US	4/2/20 23:25	38.52746429	-122.8862506	91	2	0	0	Sonoma, California, US
+6099	Stanislaus	California	US	4/2/20 23:25	37.55862499	-120.9970722	44	0	0	0	Stanislaus, California, US
+6101	Sutter	California	US	4/2/20 23:25	39.03417539	-121.6945899	14	1	0	0	Sutter, California, US
+6107	Tulare	California	US	4/2/20 23:25	36.22026558	-118.8020203	74	2	0	0	Tulare, California, US
+6109	Tuolumne	California	US	4/2/20 23:25	38.02644018	-119.9525093	2	0	0	0	Tuolumne, California, US
+90006	Unassigned	California	US	4/2/20 23:25			0	0	0	0	Unassigned, California, US
+6111	Ventura	California	US	4/2/20 23:25	34.44465746	-119.0910613	160	5	0	0	Ventura, California, US
+6113	Yolo	California	US	4/2/20 23:25	38.68278902	-121.9018288	28	1	0	0	Yolo, California, US
+6115	Yuba	California	US	4/2/20 23:25	39.26255932	-121.3535644	8	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-04-03 22:46:37	37.64629437	-121.8929271	443	12	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-04-03 22:46:37	38.59678594	-119.82235940000001	1	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-04-03 22:46:37	38.44583082	-120.65696000000001	3	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-04-03 22:46:37	39.66727762	-121.6005252	10	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-04-03 22:46:37	38.20537103	-120.55291299999999	3	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-04-03 22:46:37	39.17881957	-122.2331726	1	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-04-03 22:46:37	37.91923498	-121.9289527	307	3	0	0	Contra Costa, California, US
+06015	Del Norte	California	US	2020-04-03 22:46:37	41.74228275	-123.89740630000001	1	0	0	0	Del Norte, California, US
+06017	El Dorado	California	US	2020-04-03 22:46:37	38.77965956	-120.5233166	19	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-04-03 22:46:37	36.75733899	-119.6466953	94	0	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-04-03 22:46:37	39.59875897	-122.3938452	2	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-04-03 22:46:37	40.69923009	-123.876044	37	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-04-03 22:46:37	33.0393082	-115.36690420000001	52	1	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-04-03 22:46:37	36.51112084	-117.41119779999998	10	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-04-03 22:46:37	35.34329425	-118.72777959999999	173	2	0	0	Kern, California, US
+06031	Kings	California	US	2020-04-03 22:46:37	36.07409056	-119.8159973	5	0	0	0	Kings, California, US
+06037	Los Angeles	California	US	2020-04-03 22:46:37	34.30828379	-118.22824109999999	4566	89	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-04-03 22:46:37	37.21513971	-119.76655890000002	28	1	0	0	Madera, California, US
+06041	Marin	California	US	2020-04-03 22:46:37	38.07122463	-122.72106310000001	118	6	0	0	Marin, California, US
+06045	Mendocino	California	US	2020-04-03 22:46:37	39.4381191	-123.39113130000001	4	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-04-03 22:46:37	37.18922369	-120.72090349999999	16	0	0	0	Merced, California, US
+06051	Mono	California	US	2020-04-03 22:46:37	37.93899289	-118.8872409	18	1	0	0	Mono, California, US
+06053	Monterey	California	US	2020-04-03 22:46:37	36.21862405	-121.24133970000001	53	2	0	0	Monterey, California, US
+06055	Napa	California	US	2020-04-03 22:46:37	38.50735751	-122.33283899999999	18	1	0	0	Napa, California, US
+06057	Nevada	California	US	2020-04-03 22:46:37	39.30394768	-120.76272809999999	30	0	0	0	Nevada, California, US
+06059	Orange	California	US	2020-04-03 22:46:37	33.70147516	-117.76459979999998	711	13	0	0	Orange, California, US
+06061	Placer	California	US	2020-04-03 22:46:37	39.06167234	-120.72405690000001	97	2	0	0	Placer, California, US
+06063	Plumas	California	US	2020-04-03 22:46:37	40.00355989	-120.8395236	1	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-04-03 22:46:37	33.74314981	-115.9933578	493	14	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-04-03 22:46:37	38.45106826	-121.34253740000001	390	10	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-04-03 22:46:37	36.60308176	-121.069975	23	1	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-04-03 22:46:37	34.84060306	-116.1774685	304	8	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-04-03 22:46:37	33.03484597	-116.73653259999999	966	16	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-04-03 22:46:37	37.75215114	-122.43856720000001	497	7	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-04-03 22:46:37	37.93433732	-121.2730061	180	9	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-04-03 22:46:37	35.38822029	-120.4039028	93	0	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-04-03 22:46:37	37.422880799999994	-122.32755459999998	486	13	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-04-03 22:46:37	34.65329488	-120.0188492	139	1	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-04-03 22:46:37	37.23104908	-121.6970462	1019	36	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-04-03 22:46:37	37.05580291	-122.0066524	57	1	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-04-03 22:46:37	40.76391419	-122.0396884	11	1	0	0	Shasta, California, US
+06093	Siskiyou	California	US	2020-04-03 22:46:37	41.59198861	-122.54074340000001	3	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-04-03 22:46:37	38.26827353	-121.9357113	61	1	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-04-03 22:46:37	38.52746429	-122.88625060000001	95	2	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-04-03 22:46:37	37.55862499	-120.9970722	51	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-04-03 22:46:37	39.03417539	-121.6945899	14	1	0	0	Sutter, California, US
+06107	Tulare	California	US	2020-04-03 22:46:37	36.22026558	-118.8020203	81	2	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-04-03 22:46:37	38.02644018	-119.95250929999999	2	0	0	0	Tuolumne, California, US
+90006	Unassigned	California	US	2020-04-03 22:46:37			0	2	0	0	Unassigned, California, US
+06111	Ventura	California	US	2020-04-03 22:46:37	34.44465746	-119.09106129999999	177	6	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-04-03 22:46:37	38.68278902	-121.90182879999999	33	1	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-04-03 22:46:37	39.26255932	-121.35356440000001	8	0	0	0	Yuba, California, US
+6001	Alameda	California	US	4/4/20 23:34	37.64629437	-121.8929271	443	12	0	0	Alameda, California, US
+6003	Alpine	California	US	4/4/20 23:34	38.59678594	-119.8223594	1	0	0	0	Alpine, California, US
+6005	Amador	California	US	4/4/20 23:34	38.44583082	-120.65696	3	0	0	0	Amador, California, US
+6007	Butte	California	US	4/4/20 23:34	39.66727762	-121.6005252	11	0	0	0	Butte, California, US
+6009	Calaveras	California	US	4/4/20 23:34	38.20537103	-120.552913	4	0	0	0	Calaveras, California, US
+6011	Colusa	California	US	4/4/20 23:34	39.17881957	-122.2331726	2	0	0	0	Colusa, California, US
+6013	Contra Costa	California	US	4/4/20 23:34	37.91923498	-121.9289527	307	5	0	0	Contra Costa, California, US
+6015	Del Norte	California	US	4/4/20 23:34	41.74228275	-123.8974063	2	0	0	0	Del Norte, California, US
+6017	El Dorado	California	US	4/4/20 23:34	38.77965956	-120.5233166	22	0	0	0	El Dorado, California, US
+6019	Fresno	California	US	4/4/20 23:34	36.75733899	-119.6466953	100	1	0	0	Fresno, California, US
+6021	Glenn	California	US	4/4/20 23:34	39.59875897	-122.3938452	2	0	0	0	Glenn, California, US
+6023	Humboldt	California	US	4/4/20 23:34	40.69923009	-123.876044	44	0	0	0	Humboldt, California, US
+6025	Imperial	California	US	4/4/20 23:34	33.0393082	-115.3669042	55	1	0	0	Imperial, California, US
+6027	Inyo	California	US	4/4/20 23:34	36.51112084	-117.4111978	10	0	0	0	Inyo, California, US
+6029	Kern	California	US	4/4/20 23:34	35.34329425	-118.7277796	210	2	0	0	Kern, California, US
+6031	Kings	California	US	4/4/20 23:34	36.07409056	-119.8159973	5	0	0	0	Kings, California, US
+6037	Los Angeles	California	US	4/4/20 23:34	34.30828379	-118.2282411	4605	93	0	0	Los Angeles, California, US
+6039	Madera	California	US	4/4/20 23:34	37.21513971	-119.7665589	28	1	0	0	Madera, California, US
+6041	Marin	California	US	4/4/20 23:34	38.07122463	-122.7210631	131	6	0	0	Marin, California, US
+6045	Mendocino	California	US	4/4/20 23:34	39.4381191	-123.3911313	4	0	0	0	Mendocino, California, US
+6047	Merced	California	US	4/4/20 23:34	37.18922369	-120.7209035	16	0	0	0	Merced, California, US
+6051	Mono	California	US	4/4/20 23:34	37.93899289	-118.8872409	19	1	0	0	Mono, California, US
+6053	Monterey	California	US	4/4/20 23:34	36.21862405	-121.2413397	57	2	0	0	Monterey, California, US
+6055	Napa	California	US	4/4/20 23:34	38.50735751	-122.332839	20	2	0	0	Napa, California, US
+6057	Nevada	California	US	4/4/20 23:34	39.30394768	-120.7627281	31	1	0	0	Nevada, California, US
+6059	Orange	California	US	4/4/20 23:34	33.70147516	-117.7645998	786	14	0	0	Orange, California, US
+6061	Placer	California	US	4/4/20 23:34	39.06167234	-120.7240569	97	2	0	0	Placer, California, US
+6063	Plumas	California	US	4/4/20 23:34	40.00355989	-120.8395236	2	0	0	0	Plumas, California, US
+6065	Riverside	California	US	4/4/20 23:34	33.74314981	-115.9933578	638	15	0	0	Riverside, California, US
+6067	Sacramento	California	US	4/4/20 23:34	38.45106826	-121.3425374	390	10	0	0	Sacramento, California, US
+6069	San Benito	California	US	4/4/20 23:34	36.60308176	-121.069975	23	2	0	0	San Benito, California, US
+6071	San Bernardino	California	US	4/4/20 23:34	34.84060306	-116.1774685	353	13	0	0	San Bernardino, California, US
+6073	San Diego	California	US	4/4/20 23:34	33.03484597	-116.7365326	1112	17	0	0	San Diego, California, US
+6075	San Francisco	California	US	4/4/20 23:34	37.75215114	-122.4385672	529	8	0	0	San Francisco, California, US
+6077	San Joaquin	California	US	4/4/20 23:34	37.93433732	-121.2730061	185	11	0	0	San Joaquin, California, US
+6079	San Luis Obispo	California	US	4/4/20 23:34	35.38822029	-120.4039028	93	0	0	0	San Luis Obispo, California, US
+6081	San Mateo	California	US	4/4/20 23:34	37.4228808	-122.3275546	538	13	0	0	San Mateo, California, US
+6083	Santa Barbara	California	US	4/4/20 23:34	34.65329488	-120.0188492	152	1	0	0	Santa Barbara, California, US
+6085	Santa Clara	California	US	4/4/20 23:34	37.23104908	-121.6970462	1148	39	0	0	Santa Clara, California, US
+6087	Santa Cruz	California	US	4/4/20 23:34	37.05580291	-122.0066524	59	1	0	0	Santa Cruz, California, US
+6089	Shasta	California	US	4/4/20 23:34	40.76391419	-122.0396884	12	2	0	0	Shasta, California, US
+6093	Siskiyou	California	US	4/4/20 23:34	41.59198861	-122.5407434	3	0	0	0	Siskiyou, California, US
+6095	Solano	California	US	4/4/20 23:34	38.26827353	-121.9357113	73	1	0	0	Solano, California, US
+6097	Sonoma	California	US	4/4/20 23:34	38.52746429	-122.8862506	105	2	0	0	Sonoma, California, US
+6099	Stanislaus	California	US	4/4/20 23:34	37.55862499	-120.9970722	58	0	0	0	Stanislaus, California, US
+6101	Sutter	California	US	4/4/20 23:34	39.03417539	-121.6945899	16	1	0	0	Sutter, California, US
+6103	Tehama	California	US	4/4/20 23:34	40.12570935	-122.2370171	1	0	0	0	Tehama, California, US
+6107	Tulare	California	US	4/4/20 23:34	36.22026558	-118.8020203	81	3	0	0	Tulare, California, US
+6109	Tuolumne	California	US	4/4/20 23:34	38.02644018	-119.9525093	2	0	0	0	Tuolumne, California, US
+6111	Ventura	California	US	4/4/20 23:34	34.44465746	-119.0910613	203	6	0	0	Ventura, California, US
+6113	Yolo	California	US	4/4/20 23:34	38.68278902	-121.9018288	37	1	0	0	Yolo, California, US
+6115	Yuba	California	US	4/4/20 23:34	39.26255932	-121.3535644	9	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-04-05 23:06:45	37.64629437	-121.8929271	566	12	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-04-05 23:06:45	38.59678594	-119.82235940000001	1	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-04-05 23:06:45	38.44583082	-120.65696000000001	0	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-04-05 23:06:45	39.66727762	-121.6005252	11	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-04-05 23:06:45	38.20537103	-120.55291299999999	4	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-04-05 23:06:45	39.17881957	-122.2331726	2	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-04-05 23:06:45	37.91923498	-121.9289527	386	6	0	0	Contra Costa, California, US
+06015	Del Norte	California	US	2020-04-05 23:06:45	41.74228275	-123.89740630000001	2	0	0	0	Del Norte, California, US
+06017	El Dorado	California	US	2020-04-05 23:06:45	38.77965956	-120.5233166	22	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-04-05 23:06:45	36.75733899	-119.6466953	103	1	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-04-05 23:06:45	39.59875897	-122.3938452	2	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-04-05 23:06:45	40.69923009	-123.876044	44	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-04-05 23:06:45	33.0393082	-115.36690420000001	57	2	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-04-05 23:06:45	36.51112084	-117.41119779999998	11	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-04-05 23:06:45	35.34329425	-118.72777959999999	230	2	0	0	Kern, California, US
+06031	Kings	California	US	2020-04-05 23:06:45	36.07409056	-119.8159973	5	0	0	0	Kings, California, US
+06037	Los Angeles	California	US	2020-04-05 23:06:45	34.30828379	-118.22824109999999	5955	132	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-04-05 23:06:45	37.21513971	-119.76655890000002	28	2	0	0	Madera, California, US
+06041	Marin	California	US	2020-04-05 23:06:45	38.07122463	-122.72106310000001	137	7	0	0	Marin, California, US
+06045	Mendocino	California	US	2020-04-05 23:06:45	39.4381191	-123.39113130000001	4	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-04-05 23:06:45	37.18922369	-120.72090349999999	27	0	0	0	Merced, California, US
+06051	Mono	California	US	2020-04-05 23:06:45	37.93899289	-118.8872409	19	1	0	0	Mono, California, US
+06053	Monterey	California	US	2020-04-05 23:06:45	36.21862405	-121.24133970000001	62	2	0	0	Monterey, California, US
+06055	Napa	California	US	2020-04-05 23:06:45	38.50735751	-122.33283899999999	20	2	0	0	Napa, California, US
+06057	Nevada	California	US	2020-04-05 23:06:45	39.30394768	-120.76272809999999	31	1	0	0	Nevada, California, US
+06059	Orange	California	US	2020-04-05 23:06:45	33.70147516	-117.76459979999998	834	14	0	0	Orange, California, US
+06061	Placer	California	US	2020-04-05 23:06:45	39.06167234	-120.72405690000001	103	3	0	0	Placer, California, US
+06063	Plumas	California	US	2020-04-05 23:06:45	40.00355989	-120.8395236	3	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-04-05 23:06:45	33.74314981	-115.9933578	799	19	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-04-05 23:06:45	38.45106826	-121.34253740000001	442	16	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-04-05 23:06:45	36.60308176	-121.069975	23	2	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-04-05 23:06:45	34.84060306	-116.1774685	372	13	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-04-05 23:06:45	33.03484597	-116.73653259999999	1209	18	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-04-05 23:06:45	37.75215114	-122.43856720000001	568	8	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-04-05 23:06:45	37.93433732	-121.2730061	191	11	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-04-05 23:06:45	35.38822029	-120.4039028	95	1	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-04-05 23:06:45	37.422880799999994	-122.32755459999998	555	13	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-04-05 23:06:45	34.65329488	-120.0188492	168	1	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-04-05 23:06:45	37.23104908	-121.6970462	1207	39	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-04-05 23:06:45	37.05580291	-122.0066524	69	1	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-04-05 23:06:45	40.76391419	-122.0396884	17	2	0	0	Shasta, California, US
+06093	Siskiyou	California	US	2020-04-05 23:06:45	41.59198861	-122.54074340000001	3	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-04-05 23:06:45	38.26827353	-121.9357113	73	1	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-04-05 23:06:45	38.52746429	-122.88625060000001	107	2	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-04-05 23:06:45	37.55862499	-120.9970722	65	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-04-05 23:06:45	39.03417539	-121.6945899	16	2	0	0	Sutter, California, US
+06103	Tehama	California	US	2020-04-05 23:06:45	40.12570935	-122.23701709999999	1	0	0	0	Tehama, California, US
+06107	Tulare	California	US	2020-04-05 23:06:45	36.22026558	-118.8020203	116	5	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-04-05 23:06:45	38.02644018	-119.95250929999999	2	0	0	0	Tuolumne, California, US
+90006	Unassigned	California	US	2020-04-05 23:06:45			0	0	0	0	Unassigned, California, US
+06111	Ventura	California	US	2020-04-05 23:06:45	34.44465746	-119.09106129999999	221	6	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-04-05 23:06:45	38.68278902	-121.90182879999999	37	1	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-04-05 23:06:45	39.26255932	-121.35356440000001	9	0	0	0	Yuba, California, US
+6001	Alameda	California	US	4/6/20 23:22	37.64629437	-121.8929271	588	13	0	0	Alameda, California, US
+6003	Alpine	California	US	4/6/20 23:22	38.59678594	-119.8223594	1	0	0	0	Alpine, California, US
+6005	Amador	California	US	4/6/20 23:22	38.44583082	-120.65696	3	0	0	0	Amador, California, US
+6007	Butte	California	US	4/6/20 23:22	39.66727762	-121.6005252	11	0	0	0	Butte, California, US
+6009	Calaveras	California	US	4/6/20 23:22	38.20537103	-120.552913	5	0	0	0	Calaveras, California, US
+6011	Colusa	California	US	4/6/20 23:22	39.17881957	-122.2331726	2	0	0	0	Colusa, California, US
+6013	Contra Costa	California	US	4/6/20 23:22	37.91923498	-121.9289527	417	7	0	0	Contra Costa, California, US
+6015	Del Norte	California	US	4/6/20 23:22	41.74228275	-123.8974063	2	0	0	0	Del Norte, California, US
+6017	El Dorado	California	US	4/6/20 23:22	38.77965956	-120.5233166	22	0	0	0	El Dorado, California, US
+6019	Fresno	California	US	4/6/20 23:22	36.75733899	-119.6466953	108	1	0	0	Fresno, California, US
+6021	Glenn	California	US	4/6/20 23:22	39.59875897	-122.3938452	2	0	0	0	Glenn, California, US
+6023	Humboldt	California	US	4/6/20 23:22	40.69923009	-123.876044	44	0	0	0	Humboldt, California, US
+6025	Imperial	California	US	4/6/20 23:22	33.0393082	-115.3669042	65	3	0	0	Imperial, California, US
+6027	Inyo	California	US	4/6/20 23:22	36.51112084	-117.4111978	11	0	0	0	Inyo, California, US
+6029	Kern	California	US	4/6/20 23:22	35.34329425	-118.7277796	239	2	0	0	Kern, California, US
+6031	Kings	California	US	4/6/20 23:22	36.07409056	-119.8159973	5	0	0	0	Kings, California, US
+6033	Lake	California	US	4/6/20 23:22	39.10124298	-122.7536244	1	0	0	0	Lake, California, US
+6037	Los Angeles	California	US	4/6/20 23:22	34.30828379	-118.2282411	6377	147	0	0	Los Angeles, California, US
+6039	Madera	California	US	4/6/20 23:22	37.21513971	-119.7665589	28	2	0	0	Madera, California, US
+6041	Marin	California	US	4/6/20 23:22	38.07122463	-122.7210631	141	7	0	0	Marin, California, US
+6045	Mendocino	California	US	4/6/20 23:22	39.4381191	-123.3911313	4	0	0	0	Mendocino, California, US
+6047	Merced	California	US	4/6/20 23:22	37.18922369	-120.7209035	29	1	0	0	Merced, California, US
+6051	Mono	California	US	4/6/20 23:22	37.93899289	-118.8872409	19	1	0	0	Mono, California, US
+6053	Monterey	California	US	4/6/20 23:22	36.21862405	-121.2413397	62	2	0	0	Monterey, California, US
+6055	Napa	California	US	4/6/20 23:22	38.50735751	-122.332839	22	2	0	0	Napa, California, US
+6057	Nevada	California	US	4/6/20 23:22	39.30394768	-120.7627281	32	1	0	0	Nevada, California, US
+6059	Orange	California	US	4/6/20 23:22	33.70147516	-117.7645998	882	14	0	0	Orange, California, US
+6061	Placer	California	US	4/6/20 23:22	39.06167234	-120.7240569	106	3	0	0	Placer, California, US
+6063	Plumas	California	US	4/6/20 23:22	40.00355989	-120.8395236	3	0	0	0	Plumas, California, US
+6065	Riverside	California	US	4/6/20 23:22	33.74314981	-115.9933578	946	25	0	0	Riverside, California, US
+6067	Sacramento	California	US	4/6/20 23:22	38.45106826	-121.3425374	462	18	0	0	Sacramento, California, US
+6069	San Benito	California	US	4/6/20 23:22	36.60308176	-121.069975	23	2	0	0	San Benito, California, US
+6071	San Bernardino	California	US	4/6/20 23:22	34.84060306	-116.1774685	373	13	0	0	San Bernardino, California, US
+6073	San Diego	California	US	4/6/20 23:22	33.03484597	-116.7365326	1326	19	0	0	San Diego, California, US
+6075	San Francisco	California	US	4/6/20 23:22	37.75215114	-122.4385672	583	9	0	0	San Francisco, California, US
+6077	San Joaquin	California	US	4/6/20 23:22	37.93433732	-121.2730061	206	11	0	0	San Joaquin, California, US
+6079	San Luis Obispo	California	US	4/6/20 23:22	35.38822029	-120.4039028	95	1	0	0	San Luis Obispo, California, US
+6081	San Mateo	California	US	4/6/20 23:22	37.4228808	-122.3275546	579	13	0	0	San Mateo, California, US
+6083	Santa Barbara	California	US	4/6/20 23:22	34.65329488	-120.0188492	174	2	0	0	Santa Barbara, California, US
+6085	Santa Clara	California	US	4/6/20 23:22	37.23104908	-121.6970462	1207	39	0	0	Santa Clara, California, US
+6087	Santa Cruz	California	US	4/6/20 23:22	37.05580291	-122.0066524	69	1	0	0	Santa Cruz, California, US
+6089	Shasta	California	US	4/6/20 23:22	40.76391419	-122.0396884	20	3	0	0	Shasta, California, US
+6093	Siskiyou	California	US	4/6/20 23:22	41.59198861	-122.5407434	4	0	0	0	Siskiyou, California, US
+6095	Solano	California	US	4/6/20 23:22	38.26827353	-121.9357113	73	1	0	0	Solano, California, US
+6097	Sonoma	California	US	4/6/20 23:22	38.52746429	-122.8862506	111	2	0	0	Sonoma, California, US
+6099	Stanislaus	California	US	4/6/20 23:22	37.55862499	-120.9970722	71	0	0	0	Stanislaus, California, US
+6101	Sutter	California	US	4/6/20 23:22	39.03417539	-121.6945899	16	2	0	0	Sutter, California, US
+6103	Tehama	California	US	4/6/20 23:22	40.12570935	-122.2370171	1	0	0	0	Tehama, California, US
+6107	Tulare	California	US	4/6/20 23:22	36.22026558	-118.8020203	135	6	0	0	Tulare, California, US
+6109	Tuolumne	California	US	4/6/20 23:22	38.02644018	-119.9525093	2	0	0	0	Tuolumne, California, US
+90006	Unassigned	California	US	4/6/20 23:22			43	0	0	0	Unassigned, California, US
+6111	Ventura	California	US	4/6/20 23:22	34.44465746	-119.0910613	221	6	0	0	Ventura, California, US
+6113	Yolo	California	US	4/6/20 23:22	38.68278902	-121.9018288	37	1	0	0	Yolo, California, US
+6115	Yuba	California	US	4/6/20 23:22	39.26255932	-121.3535644	11	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-04-07 23:04:49	37.64629437	-121.8929271	634	15	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-04-07 23:04:49	38.59678594	-119.82235940000001	1	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-04-07 23:04:49	38.44583082	-120.65696000000001	3	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-04-07 23:04:49	39.66727762	-121.6005252	12	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-04-07 23:04:49	38.20537103	-120.55291299999999	5	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-04-07 23:04:49	39.17881957	-122.2331726	2	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-04-07 23:04:49	37.91923498	-121.9289527	442	7	0	0	Contra Costa, California, US
+06015	Del Norte	California	US	2020-04-07 23:04:49	41.74228275	-123.89740630000001	2	0	0	0	Del Norte, California, US
+06017	El Dorado	California	US	2020-04-07 23:04:49	38.77965956	-120.5233166	22	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-04-07 23:04:49	36.75733899	-119.6466953	124	2	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-04-07 23:04:49	39.59875897	-122.3938452	2	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-04-07 23:04:49	40.69923009	-123.876044	49	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-04-07 23:04:49	33.0393082	-115.36690420000001	68	3	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-04-07 23:04:49	36.51112084	-117.41119779999998	11	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-04-07 23:04:49	35.34329425	-118.72777959999999	252	2	0	0	Kern, California, US
+06031	Kings	California	US	2020-04-07 23:04:49	36.07409056	-119.8159973	5	0	0	0	Kings, California, US
+06033	Lake	California	US	2020-04-07 23:04:49	39.10124298	-122.75362439999999	1	0	0	0	Lake, California, US
+06037	Los Angeles	California	US	2020-04-07 23:04:49	34.30828379	-118.22824109999999	6936	169	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-04-07 23:04:49	37.21513971	-119.76655890000002	28	2	0	0	Madera, California, US
+06041	Marin	California	US	2020-04-07 23:04:49	38.07122463	-122.72106310000001	143	9	0	0	Marin, California, US
+06045	Mendocino	California	US	2020-04-07 23:04:49	39.4381191	-123.39113130000001	4	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-04-07 23:04:49	37.18922369	-120.72090349999999	29	1	0	0	Merced, California, US
+06051	Mono	California	US	2020-04-07 23:04:49	37.93899289	-118.8872409	19	1	0	0	Mono, California, US
+06053	Monterey	California	US	2020-04-07 23:04:49	36.21862405	-121.24133970000001	62	2	0	0	Monterey, California, US
+06055	Napa	California	US	2020-04-07 23:04:49	38.50735751	-122.33283899999999	22	2	0	0	Napa, California, US
+06057	Nevada	California	US	2020-04-07 23:04:49	39.30394768	-120.76272809999999	32	1	0	0	Nevada, California, US
+06059	Orange	California	US	2020-04-07 23:04:49	33.70147516	-117.76459979999998	931	15	0	0	Orange, California, US
+06061	Placer	California	US	2020-04-07 23:04:49	39.06167234	-120.72405690000001	106	3	0	0	Placer, California, US
+06063	Plumas	California	US	2020-04-07 23:04:49	40.00355989	-120.8395236	3	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-04-07 23:04:49	33.74314981	-115.9933578	1016	28	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-04-07 23:04:49	38.45106826	-121.34253740000001	525	21	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-04-07 23:04:49	36.60308176	-121.069975	23	2	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-04-07 23:04:49	34.84060306	-116.1774685	530	16	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-04-07 23:04:49	33.03484597	-116.73653259999999	1404	19	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-04-07 23:04:49	37.75215114	-122.43856720000001	622	9	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-04-07 23:04:49	37.93433732	-121.2730061	217	13	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-04-07 23:04:49	35.38822029	-120.4039028	95	1	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-04-07 23:04:49	37.422880799999994	-122.32755459999998	589	21	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-04-07 23:04:49	34.65329488	-120.0188492	192	2	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-04-07 23:04:49	37.23104908	-121.6970462	1285	43	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-04-07 23:04:49	37.05580291	-122.0066524	76	1	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-04-07 23:04:49	40.76391419	-122.0396884	21	3	0	0	Shasta, California, US
+06093	Siskiyou	California	US	2020-04-07 23:04:49	41.59198861	-122.54074340000001	4	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-04-07 23:04:49	38.26827353	-121.9357113	88	1	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-04-07 23:04:49	38.52746429	-122.88625060000001	111	2	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-04-07 23:04:49	37.55862499	-120.9970722	81	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-04-07 23:04:49	39.03417539	-121.6945899	16	2	0	0	Sutter, California, US
+06103	Tehama	California	US	2020-04-07 23:04:49	40.12570935	-122.23701709999999	1	0	0	0	Tehama, California, US
+06107	Tulare	California	US	2020-04-07 23:04:49	36.22026558	-118.8020203	157	7	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-04-07 23:04:49	38.02644018	-119.95250929999999	2	0	0	0	Tuolumne, California, US
+90006	Unassigned	California	US	2020-04-07 23:04:49			42	0	0	0	Unassigned, California, US
+06111	Ventura	California	US	2020-04-07 23:04:49	34.44465746	-119.09106129999999	243	6	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-04-07 23:04:49	38.68278902	-121.90182879999999	50	1	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-04-07 23:04:49	39.26255932	-121.35356440000001	11	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-04-08 22:51:58	37.64629437	-121.8929271	674	16	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-04-08 22:51:58	38.59678594	-119.82235940000001	1	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-04-08 22:51:58	38.44583082	-120.65696000000001	3	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-04-08 22:51:58	39.66727762	-121.6005252	13	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-04-08 22:51:58	38.20537103	-120.55291299999999	5	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-04-08 22:51:58	39.17881957	-122.2331726	3	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-04-08 22:51:58	37.91923498	-121.9289527	462	7	0	0	Contra Costa, California, US
+06015	Del Norte	California	US	2020-04-08 22:51:58	41.74228275	-123.89740630000001	2	0	0	0	Del Norte, California, US
+06017	El Dorado	California	US	2020-04-08 22:51:58	38.77965956	-120.5233166	28	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-04-08 22:51:58	36.75733899	-119.6466953	146	3	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-04-08 22:51:58	39.59875897	-122.3938452	2	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-04-08 22:51:58	40.69923009	-123.876044	50	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-04-08 22:51:58	33.0393082	-115.36690420000001	73	3	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-04-08 22:51:58	36.51112084	-117.41119779999998	11	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-04-08 22:51:58	35.34329425	-118.72777959999999	271	2	0	0	Kern, California, US
+06031	Kings	California	US	2020-04-08 22:51:58	36.07409056	-119.8159973	5	0	0	0	Kings, California, US
+06033	Lake	California	US	2020-04-08 22:51:58	39.10124298	-122.75362439999999	2	0	0	0	Lake, California, US
+06037	Los Angeles	California	US	2020-04-08 22:51:58	34.30828379	-118.22824109999999	7559	198	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-04-08 22:51:58	37.21513971	-119.76655890000002	28	2	0	0	Madera, California, US
+06041	Marin	California	US	2020-04-08 22:51:58	38.07122463	-122.72106310000001	148	10	0	0	Marin, California, US
+06045	Mendocino	California	US	2020-04-08 22:51:58	39.4381191	-123.39113130000001	4	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-04-08 22:51:58	37.18922369	-120.72090349999999	34	3	0	0	Merced, California, US
+06051	Mono	California	US	2020-04-08 22:51:58	37.93899289	-118.8872409	19	1	0	0	Mono, California, US
+06053	Monterey	California	US	2020-04-08 22:51:58	36.21862405	-121.24133970000001	64	2	0	0	Monterey, California, US
+06055	Napa	California	US	2020-04-08 22:51:58	38.50735751	-122.33283899999999	25	2	0	0	Napa, California, US
+06057	Nevada	California	US	2020-04-08 22:51:58	39.30394768	-120.76272809999999	34	1	0	0	Nevada, California, US
+06059	Orange	California	US	2020-04-08 22:51:58	33.70147516	-117.76459979999998	1016	17	0	0	Orange, California, US
+06061	Placer	California	US	2020-04-08 22:51:58	39.06167234	-120.72405690000001	117	4	0	0	Placer, California, US
+06063	Plumas	California	US	2020-04-08 22:51:58	40.00355989	-120.8395236	3	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-04-08 22:51:58	33.74314981	-115.9933578	1179	32	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-04-08 22:51:58	38.45106826	-121.34253740000001	580	22	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-04-08 22:51:58	36.60308176	-121.069975	33	2	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-04-08 22:51:58	34.84060306	-116.1774685	547	17	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-04-08 22:51:58	33.03484597	-116.73653259999999	1454	31	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-04-08 22:51:58	37.75215114	-122.43856720000001	676	10	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-04-08 22:51:58	37.93433732	-121.2730061	223	13	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-04-08 22:51:58	35.38822029	-120.4039028	99	1	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-04-08 22:51:58	37.422880799999994	-122.32755459999998	617	21	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-04-08 22:51:58	34.65329488	-120.0188492	218	2	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-04-08 22:51:58	37.23104908	-121.6970462	1380	46	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-04-08 22:51:58	37.05580291	-122.0066524	76	1	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-04-08 22:51:58	40.76391419	-122.0396884	23	3	0	0	Shasta, California, US
+06093	Siskiyou	California	US	2020-04-08 22:51:58	41.59198861	-122.54074340000001	4	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-04-08 22:51:58	38.26827353	-121.9357113	99	2	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-04-08 22:51:58	38.52746429	-122.88625060000001	120	1	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-04-08 22:51:58	37.55862499	-120.9970722	90	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-04-08 22:51:58	39.03417539	-121.6945899	19	2	0	0	Sutter, California, US
+06103	Tehama	California	US	2020-04-08 22:51:58	40.12570935	-122.23701709999999	1	0	0	0	Tehama, California, US
+06107	Tulare	California	US	2020-04-08 22:51:58	36.22026558	-118.8020203	157	7	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-04-08 22:51:58	38.02644018	-119.95250929999999	1	0	0	0	Tuolumne, California, US
+90006	Unassigned	California	US	2020-04-08 22:51:58			167	2	0	0	Unassigned, California, US
+06111	Ventura	California	US	2020-04-08 22:51:58	34.44465746	-119.09106129999999	263	7	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-04-08 22:51:58	38.68278902	-121.90182879999999	56	2	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-04-08 22:51:58	39.26255932	-121.35356440000001	13	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-04-09 23:02:37	37.64629437	-121.8929271	674	16	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-04-09 23:02:37	38.59678594	-119.82235940000001	1	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-04-09 23:02:37	38.44583082	-120.65696000000001	3	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-04-09 23:02:37	39.66727762	-121.6005252	13	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-04-09 23:02:37	38.20537103	-120.55291299999999	5	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-04-09 23:02:37	39.17881957	-122.2331726	3	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-04-09 23:02:37	37.91923498	-121.9289527	484	8	0	0	Contra Costa, California, US
+06015	Del Norte	California	US	2020-04-09 23:02:37	41.74228275	-123.89740630000001	2	0	0	0	Del Norte, California, US
+06017	El Dorado	California	US	2020-04-09 23:02:37	38.77965956	-120.5233166	29	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-04-09 23:02:37	36.75733899	-119.6466953	156	3	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-04-09 23:02:37	39.59875897	-122.3938452	2	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-04-09 23:02:37	40.69923009	-123.876044	50	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-04-09 23:02:37	33.0393082	-115.36690420000001	75	3	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-04-09 23:02:37	36.51112084	-117.41119779999998	11	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-04-09 23:02:37	35.34329425	-118.72777959999999	303	2	0	0	Kern, California, US
+06031	Kings	California	US	2020-04-09 23:02:37	36.07409056	-119.8159973	8	0	0	0	Kings, California, US
+06033	Lake	California	US	2020-04-09 23:02:37	39.10124298	-122.75362439999999	3	0	0	0	Lake, California, US
+06037	Los Angeles	California	US	2020-04-09 23:02:37	34.30828379	-118.22824109999999	7955	223	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-04-09 23:02:37	37.21513971	-119.76655890000002	28	2	0	0	Madera, California, US
+06041	Marin	California	US	2020-04-09 23:02:37	38.07122463	-122.72106310000001	149	10	0	0	Marin, California, US
+06045	Mendocino	California	US	2020-04-09 23:02:37	39.4381191	-123.39113130000001	4	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-04-09 23:02:37	37.18922369	-120.72090349999999	40	3	0	0	Merced, California, US
+06051	Mono	California	US	2020-04-09 23:02:37	37.93899289	-118.8872409	20	1	0	0	Mono, California, US
+06053	Monterey	California	US	2020-04-09 23:02:37	36.21862405	-121.24133970000001	69	2	0	0	Monterey, California, US
+06055	Napa	California	US	2020-04-09 23:02:37	38.50735751	-122.33283899999999	25	2	0	0	Napa, California, US
+06057	Nevada	California	US	2020-04-09 23:02:37	39.30394768	-120.76272809999999	34	1	0	0	Nevada, California, US
+06059	Orange	California	US	2020-04-09 23:02:37	33.70147516	-117.76459979999998	1079	17	0	0	Orange, California, US
+06061	Placer	California	US	2020-04-09 23:02:37	39.06167234	-120.72405690000001	117	4	0	0	Placer, California, US
+06063	Plumas	California	US	2020-04-09 23:02:37	40.00355989	-120.8395236	3	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-04-09 23:02:37	33.74314981	-115.9933578	1280	33	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-04-09 23:02:37	38.45106826	-121.34253740000001	580	33	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-04-09 23:02:37	36.60308176	-121.069975	33	2	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-04-09 23:02:37	34.84060306	-116.1774685	641	20	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-04-09 23:02:37	33.03484597	-116.73653259999999	1530	36	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-04-09 23:02:37	37.75215114	-122.43856720000001	724	10	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-04-09 23:02:37	37.93433732	-121.2730061	237	14	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-04-09 23:02:37	35.38822029	-120.4039028	102	1	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-04-09 23:02:37	37.422880799999994	-122.32755459999998	633	21	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-04-09 23:02:37	34.65329488	-120.0188492	228	2	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-04-09 23:02:37	37.23104908	-121.6970462	1380	46	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-04-09 23:02:37	37.05580291	-122.0066524	76	1	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-04-09 23:02:37	40.76391419	-122.0396884	24	3	0	0	Shasta, California, US
+06093	Siskiyou	California	US	2020-04-09 23:02:37	41.59198861	-122.54074340000001	4	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-04-09 23:02:37	38.26827353	-121.9357113	112	2	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-04-09 23:02:37	38.52746429	-122.88625060000001	136	1	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-04-09 23:02:37	37.55862499	-120.9970722	95	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-04-09 23:02:37	39.03417539	-121.6945899	20	2	0	0	Sutter, California, US
+06103	Tehama	California	US	2020-04-09 23:02:37	40.12570935	-122.23701709999999	1	0	0	0	Tehama, California, US
+06107	Tulare	California	US	2020-04-09 23:02:37	36.22026558	-118.8020203	168	9	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-04-09 23:02:37	38.02644018	-119.95250929999999	1	0	0	0	Tuolumne, California, US
+90006	Unassigned	California	US	2020-04-09 23:02:37			4	2	0	0	Unassigned, California, US
+06111	Ventura	California	US	2020-04-09 23:02:37	34.44465746	-119.09106129999999	274	7	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-04-09 23:02:37	38.68278902	-121.90182879999999	67	2	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-04-09 23:02:37	39.26255932	-121.35356440000001	15	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-04-10 22:54:07	37.64629437	-121.8929271	766	20	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-04-10 22:54:07	38.59678594	-119.82235940000001	1	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-04-10 22:54:07	38.44583082	-120.65696000000001	7	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-04-10 22:54:07	39.66727762	-121.6005252	13	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-04-10 22:54:07	38.20537103	-120.55291299999999	8	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-04-10 22:54:07	39.17881957	-122.2331726	3	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-04-10 22:54:07	37.91923498	-121.9289527	511	9	0	0	Contra Costa, California, US
+06015	Del Norte	California	US	2020-04-10 22:54:07	41.74228275	-123.89740630000001	2	0	0	0	Del Norte, California, US
+06017	El Dorado	California	US	2020-04-10 22:54:07	38.77965956	-120.5233166	30	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-04-10 22:54:07	36.75733899	-119.6466953	173	3	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-04-10 22:54:07	39.59875897	-122.3938452	3	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-04-10 22:54:07	40.69923009	-123.876044	50	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-04-10 22:54:07	33.0393082	-115.36690420000001	79	3	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-04-10 22:54:07	36.51112084	-117.41119779999998	12	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-04-10 22:54:07	35.34329425	-118.72777959999999	337	3	0	0	Kern, California, US
+06031	Kings	California	US	2020-04-10 22:54:07	36.07409056	-119.8159973	8	0	0	0	Kings, California, US
+06033	Lake	California	US	2020-04-10 22:54:07	39.10124298	-122.75362439999999	4	0	0	0	Lake, California, US
+06037	Los Angeles	California	US	2020-04-10 22:54:07	34.30828379	-118.22824109999999	8443	242	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-04-10 22:54:07	37.21513971	-119.76655890000002	30	2	0	0	Madera, California, US
+06041	Marin	California	US	2020-04-10 22:54:07	38.07122463	-122.72106310000001	154	10	0	0	Marin, California, US
+06045	Mendocino	California	US	2020-04-10 22:54:07	39.4381191	-123.39113130000001	4	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-04-10 22:54:07	37.18922369	-120.72090349999999	52	3	0	0	Merced, California, US
+06051	Mono	California	US	2020-04-10 22:54:07	37.93899289	-118.8872409	20	1	0	0	Mono, California, US
+06053	Monterey	California	US	2020-04-10 22:54:07	36.21862405	-121.24133970000001	71	3	0	0	Monterey, California, US
+06055	Napa	California	US	2020-04-10 22:54:07	38.50735751	-122.33283899999999	32	2	0	0	Napa, California, US
+06057	Nevada	California	US	2020-04-10 22:54:07	39.30394768	-120.76272809999999	34	1	0	0	Nevada, California, US
+06059	Orange	California	US	2020-04-10 22:54:07	33.70147516	-117.76459979999998	1138	17	0	0	Orange, California, US
+06061	Placer	California	US	2020-04-10 22:54:07	39.06167234	-120.72405690000001	123	4	0	0	Placer, California, US
+06063	Plumas	California	US	2020-04-10 22:54:07	40.00355989	-120.8395236	3	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-04-10 22:54:07	33.74314981	-115.9933578	1350	39	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-04-10 22:54:07	38.45106826	-121.34253740000001	653	24	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-04-10 22:54:07	36.60308176	-121.069975	34	2	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-04-10 22:54:07	34.84060306	-116.1774685	729	24	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-04-10 22:54:07	33.03484597	-116.73653259999999	1628	40	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-04-10 22:54:07	37.75215114	-122.43856720000001	797	13	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-04-10 22:54:07	37.93433732	-121.2730061	253	14	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-04-10 22:54:07	35.38822029	-120.4039028	104	1	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-04-10 22:54:07	37.422880799999994	-122.32755459999998	638	21	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-04-10 22:54:07	34.65329488	-120.0188492	243	2	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-04-10 22:54:07	37.23104908	-121.6970462	1442	47	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-04-10 22:54:07	37.05580291	-122.0066524	80	1	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-04-10 22:54:07	40.76391419	-122.0396884	24	3	0	0	Shasta, California, US
+06093	Siskiyou	California	US	2020-04-10 22:54:07	41.59198861	-122.54074340000001	5	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-04-10 22:54:07	38.26827353	-121.9357113	115	2	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-04-10 22:54:07	38.52746429	-122.88625060000001	142	1	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-04-10 22:54:07	37.55862499	-120.9970722	103	0	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-04-10 22:54:07	39.03417539	-121.6945899	37	2	0	0	Sutter, California, US
+06103	Tehama	California	US	2020-04-10 22:54:07	40.12570935	-122.23701709999999	1	0	0	0	Tehama, California, US
+06107	Tulare	California	US	2020-04-10 22:54:07	36.22026558	-118.8020203	203	11	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-04-10 22:54:07	38.02644018	-119.95250929999999	1	0	0	0	Tuolumne, California, US
+90006	Unassigned	California	US	2020-04-10 22:54:07			4	0	0	0	Unassigned, California, US
+06111	Ventura	California	US	2020-04-10 22:54:07	34.44465746	-119.09106129999999	298	10	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-04-10 22:54:07	38.68278902	-121.90182879999999	71	3	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-04-10 22:54:07	39.26255932	-121.35356440000001	15	0	0	0	Yuba, California, US
+06001	Alameda	California	US	2020-04-11 22:45:33	37.64629437	-121.8929271	806	21	0	0	Alameda, California, US
+06003	Alpine	California	US	2020-04-11 22:45:33	38.59678594	-119.82235940000001	2	0	0	0	Alpine, California, US
+06005	Amador	California	US	2020-04-11 22:45:33	38.44583082	-120.65696000000001	7	0	0	0	Amador, California, US
+06007	Butte	California	US	2020-04-11 22:45:33	39.66727762	-121.6005252	14	0	0	0	Butte, California, US
+06009	Calaveras	California	US	2020-04-11 22:45:33	38.20537103	-120.55291299999999	8	0	0	0	Calaveras, California, US
+06011	Colusa	California	US	2020-04-11 22:45:33	39.17881957	-122.2331726	3	0	0	0	Colusa, California, US
+06013	Contra Costa	California	US	2020-04-11 22:45:33	37.91923498	-121.9289527	530	11	0	0	Contra Costa, California, US
+06015	Del Norte	California	US	2020-04-11 22:45:33	41.74228275	-123.89740630000001	2	0	0	0	Del Norte, California, US
+06017	El Dorado	California	US	2020-04-11 22:45:33	38.77965956	-120.5233166	32	0	0	0	El Dorado, California, US
+06019	Fresno	California	US	2020-04-11 22:45:33	36.75733899	-119.6466953	191	5	0	0	Fresno, California, US
+06021	Glenn	California	US	2020-04-11 22:45:33	39.59875897	-122.3938452	3	0	0	0	Glenn, California, US
+06023	Humboldt	California	US	2020-04-11 22:45:33	40.69923009	-123.876044	50	0	0	0	Humboldt, California, US
+06025	Imperial	California	US	2020-04-11 22:45:33	33.0393082	-115.36690420000001	79	3	0	0	Imperial, California, US
+06027	Inyo	California	US	2020-04-11 22:45:33	36.51112084	-117.41119779999998	12	0	0	0	Inyo, California, US
+06029	Kern	California	US	2020-04-11 22:45:33	35.34329425	-118.72777959999999	371	3	0	0	Kern, California, US
+06031	Kings	California	US	2020-04-11 22:45:33	36.07409056	-119.8159973	9	0	0	0	Kings, California, US
+06033	Lake	California	US	2020-04-11 22:45:33	39.10124298	-122.75362439999999	4	0	0	0	Lake, California, US
+06037	Los Angeles	California	US	2020-04-11 22:45:33	34.30828379	-118.22824109999999	8453	244	0	0	Los Angeles, California, US
+06039	Madera	California	US	2020-04-11 22:45:33	37.21513971	-119.76655890000002	32	2	0	0	Madera, California, US
+06041	Marin	California	US	2020-04-11 22:45:33	38.07122463	-122.72106310000001	154	10	0	0	Marin, California, US
+06045	Mendocino	California	US	2020-04-11 22:45:33	39.4381191	-123.39113130000001	4	0	0	0	Mendocino, California, US
+06047	Merced	California	US	2020-04-11 22:45:33	37.18922369	-120.72090349999999	59	3	0	0	Merced, California, US
+06051	Mono	California	US	2020-04-11 22:45:33	37.93899289	-118.8872409	21	1	0	0	Mono, California, US
+06053	Monterey	California	US	2020-04-11 22:45:33	36.21862405	-121.24133970000001	79	3	0	0	Monterey, California, US
+06055	Napa	California	US	2020-04-11 22:45:33	38.50735751	-122.33283899999999	32	2	0	0	Napa, California, US
+06057	Nevada	California	US	2020-04-11 22:45:33	39.30394768	-120.76272809999999	34	1	0	0	Nevada, California, US
+06059	Orange	California	US	2020-04-11 22:45:33	33.70147516	-117.76459979999998	1221	18	0	0	Orange, California, US
+06061	Placer	California	US	2020-04-11 22:45:33	39.06167234	-120.72405690000001	123	4	0	0	Placer, California, US
+06063	Plumas	California	US	2020-04-11 22:45:33	40.00355989	-120.8395236	4	0	0	0	Plumas, California, US
+06065	Riverside	California	US	2020-04-11 22:45:33	33.74314981	-115.9933578	1431	41	0	0	Riverside, California, US
+06067	Sacramento	California	US	2020-04-11 22:45:33	38.45106826	-121.34253740000001	653	24	0	0	Sacramento, California, US
+06069	San Benito	California	US	2020-04-11 22:45:33	36.60308176	-121.069975	35	2	0	0	San Benito, California, US
+06071	San Bernardino	California	US	2020-04-11 22:45:33	34.84060306	-116.1774685	810	25	0	0	San Bernardino, California, US
+06073	San Diego	California	US	2020-04-11 22:45:33	33.03484597	-116.73653259999999	1693	44	0	0	San Diego, California, US
+06075	San Francisco	California	US	2020-04-11 22:45:33	37.75215114	-122.43856720000001	857	13	0	0	San Francisco, California, US
+06077	San Joaquin	California	US	2020-04-11 22:45:33	37.93433732	-121.2730061	257	14	0	0	San Joaquin, California, US
+06079	San Luis Obispo	California	US	2020-04-11 22:45:33	35.38822029	-120.4039028	110	1	0	0	San Luis Obispo, California, US
+06081	San Mateo	California	US	2020-04-11 22:45:33	37.422880799999994	-122.32755459999998	652	21	0	0	San Mateo, California, US
+06083	Santa Barbara	California	US	2020-04-11 22:45:33	34.65329488	-120.0188492	260	2	0	0	Santa Barbara, California, US
+06085	Santa Clara	California	US	2020-04-11 22:45:33	37.23104908	-121.6970462	1484	50	0	0	Santa Clara, California, US
+06087	Santa Cruz	California	US	2020-04-11 22:45:33	37.05580291	-122.0066524	80	1	0	0	Santa Cruz, California, US
+06089	Shasta	California	US	2020-04-11 22:45:33	40.76391419	-122.0396884	24	3	0	0	Shasta, California, US
+06093	Siskiyou	California	US	2020-04-11 22:45:33	41.59198861	-122.54074340000001	5	0	0	0	Siskiyou, California, US
+06095	Solano	California	US	2020-04-11 22:45:33	38.26827353	-121.9357113	121	2	0	0	Solano, California, US
+06097	Sonoma	California	US	2020-04-11 22:45:33	38.52746429	-122.88625060000001	145	2	0	0	Sonoma, California, US
+06099	Stanislaus	California	US	2020-04-11 22:45:33	37.55862499	-120.9970722	116	1	0	0	Stanislaus, California, US
+06101	Sutter	California	US	2020-04-11 22:45:33	39.03417539	-121.6945899	37	3	0	0	Sutter, California, US
+06103	Tehama	California	US	2020-04-11 22:45:33	40.12570935	-122.23701709999999	1	0	0	0	Tehama, California, US
+06107	Tulare	California	US	2020-04-11 22:45:33	36.22026558	-118.8020203	203	11	0	0	Tulare, California, US
+06109	Tuolumne	California	US	2020-04-11 22:45:33	38.02644018	-119.95250929999999	1	0	0	0	Tuolumne, California, US
+90006	Unassigned	California	US	2020-04-11 22:45:33			4	0	0	0	Unassigned, California, US
+06111	Ventura	California	US	2020-04-11 22:45:33	34.44465746	-119.09106129999999	298	10	0	0	Ventura, California, US
+06113	Yolo	California	US	2020-04-11 22:45:33	38.68278902	-121.90182879999999	75	3	0	0	Yolo, California, US
+06115	Yuba	California	US	2020-04-11 22:45:33	39.26255932	-121.35356440000001	15	1	0	0	Yuba, California, US
